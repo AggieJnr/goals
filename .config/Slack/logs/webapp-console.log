@@ -9021,3 +9021,247 @@
 [07/30/20, 14:03:37:704] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
 [07/30/20, 14:03:41:252] info: Store: SET_SYSTEM_IDLE active 
 [07/30/20, 14:03:41:256] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:05:11:310] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:05:11:314] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:06:21:352] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:06:21:356] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:06:41:377] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:06:41:379] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:06:51:373] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:06:51:377] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:07:20:723] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:08:01:418] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:08:01:422] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:08:11:424] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:08:11:428] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:08:38:665] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:08:38:666] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:11:06:982] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 14:11:06:985] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connected to error 
+[07/30/20, 14:11:06:986] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 14:11:06:987] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 14:11:06:988] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 14:11:06:989] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 529 ms 
+[07/30/20, 14:11:07:668] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 14:11:07:674] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 14:11:07:675] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 14:11:07:675] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 14:11:07:676] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 14:11:07:676] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 14:11:07:676] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 14:11:08:800] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to connected 
+[07/30/20, 14:11:08:800] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connected state for up to Infinity ms 
+[07/30/20, 14:11:08:802] info: [SOCKET-MANAGER] (T077KKCG6) Connected to primary region 
+[07/30/20, 14:11:08:806] info: [EVENTLOG] (T077KKCG6) fr=true, lc=false, lt=1596106815.003300 
+[07/30/20, 14:11:31:565] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:11:31:571] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:11:41:573] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:11:41:577] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:11:46:342] info: Store: FOREGROUND_APP  
+[07/30/20, 14:11:46:397] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 14:11:46:651] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 14:11:46:652] info: [CHECK-UNREADS] (T077KKCG6) Marking D0185RTLK09 because unread line is visible 
+[07/30/20, 14:11:46:653] info: [SET-LAST-READ] (T077KKCG6) markLastRead D0185RTLK09:1596106815.007600, immediate: undefined 
+[07/30/20, 14:11:46:658] info: [SET-LAST-READ] (T077KKCG6) delaying D0185RTLK09 mark by 1278.750167576902ms 
+[07/30/20, 14:11:46:659] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D0185RTLK09 because last_read changed to 1596106815.007600 
+[07/30/20, 14:11:46:660] info: [COUNTS] (T077KKCG6) Updated unread_cnt for D0185RTLK09: 0 
+[07/30/20, 14:11:46:678] info: [DESKTOP-MIDDLEWARE] (T077KKCG6) Forwarding redux payload to desktop ["unreads"] 
+[07/30/20, 14:11:46:754] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [unreads] 
+[07/30/20, 14:11:47:416] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 14:11:47:424] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 14:11:47:720] info: [API-Q] (T077KKCG6) noversion-1596107507.717 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:11:47:721] info: [API-Q] (T077KKCG6) noversion-1596107507.717 Flannel users/info is ENQUEUED 
+[07/30/20, 14:11:47:722] info: [API-Q] (T077KKCG6) noversion-1596107507.717 Flannel users/info is ACTIVE 
+[07/30/20, 14:11:47:937] info: [SET-LAST-READ] (T077KKCG6) delay resolved, marking D0185RTLK09 with API 
+[07/30/20, 14:11:50:257] info: [API-Q] (T077KKCG6) noversion-1596107507.717 Flannel users/info is RESOLVED 
+[07/30/20, 14:11:50:261] info: [API-Q] (T077KKCG6) 51581052-1596107510.259 conversations.mark called with reason: viewed 
+[07/30/20, 14:11:50:261] info: [API-Q] (T077KKCG6) 51581052-1596107510.259 conversations.mark is ENQUEUED 
+[07/30/20, 14:11:50:262] info: [API-Q] (T077KKCG6) 51581052-1596107510.259 conversations.mark is ACTIVE 
+[07/30/20, 14:11:51:000] info: [API-Q] (T077KKCG6) 51581052-1596107510.259 conversations.mark is RESOLVED 
+[07/30/20, 14:11:54:811] info: [ACTION:CHANNEL-SIDEBAR] Selected D017AJ7DPEG 
+[07/30/20, 14:11:54:812] info: [CHANNEL-SIDEBAR] (T077KKCG6) onItemSelect D017AJ7DPEG 
+[07/30/20, 14:11:54:824] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 14:11:54:825] info: [SWITCH-TO-CHANNEL] (T077KKCG6) Switching to D017AJ7DPEG at end 
+[07/30/20, 14:11:54:863] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: D017AJ7DPEG timestamps: 0 
+[07/30/20, 14:11:54:864] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017AJ7DPEG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 14:11:54:865] info: [HISTORY-FETCH] (T077KKCG6) Fetching history for message pane: D017AJ7DPEG oldest: null latest: null 
+[07/30/20, 14:11:54:866] info: [API-Q] (T077KKCG6) 51581052-1596107514.865 conversations.history called with reason: message-pane/requestHistory 
+[07/30/20, 14:11:54:867] info: [API-Q] (T077KKCG6) 51581052-1596107514.865 conversations.history is ENQUEUED 
+[07/30/20, 14:11:54:868] info: [API-Q] (T077KKCG6) 51581052-1596107514.865 conversations.history is ACTIVE 
+[07/30/20, 14:11:54:892] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017AJ7DPEG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 14:11:54:892] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017AJ7DPEG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 14:11:54:925] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017AJ7DPEG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 14:11:54:938] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[07/30/20, 14:11:54:946] info: [API-Q] (T077KKCG6) noversion-1596107514.945 Flannel users/counts called with reason: flannel-call:users/counts 
+[07/30/20, 14:11:54:946] info: [API-Q] (T077KKCG6) noversion-1596107514.945 Flannel users/counts is ENQUEUED 
+[07/30/20, 14:11:54:947] info: [API-Q] (T077KKCG6) noversion-1596107514.945 Flannel users/counts is ACTIVE 
+[07/30/20, 14:11:55:583] info: [API-Q] (T077KKCG6) 51581052-1596107514.865 conversations.history is RESOLVED 
+[07/30/20, 14:11:55:597] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) setting count for channel D017AJ7DPEG to 0, and marking channel as stale. 
+[07/30/20, 14:11:55:601] info: [PINS] (T077KKCG6) Pins count updated for channel D017AJ7DPEG: 0 
+[07/30/20, 14:11:55:604] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because (28) timestamps added 
+[07/30/20, 14:11:55:605] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017AJ7DPEG after a new message 
+[07/30/20, 14:11:55:606] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017AJ7DPEG because last_read >= latest && channel is read 
+[07/30/20, 14:11:55:619] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[07/30/20, 14:11:55:687] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 14:11:55:922] info: [API-Q] (T077KKCG6) noversion-1596107514.945 Flannel users/counts is RESOLVED 
+[07/30/20, 14:11:56:257] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 14:11:56:258] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017AJ7DPEG because last_read >= latest && channel is read 
+[07/30/20, 14:11:58:894] info: [DRAFTS] (T077KKCG6) Storing draft changes locally - D017AJ7DPEG 
+[07/30/20, 14:12:02:167] info: [DRAFTS] (T077KKCG6) Storing draft changes locally - D017AJ7DPEG 
+[07/30/20, 14:12:03:564] info: [DRAFTS] (T077KKCG6) Storing draft changes locally - D017AJ7DPEG 
+[07/30/20, 14:12:04:021] info: [ACTION:MESSAGE] (T077KKCG6) Sent a message to D017AJ7DPEG via HTTP, clientMsgId: 80324d82-85a9-437d-ac9e-c668e8e04e36 
+[07/30/20, 14:12:04:021] info: [ACTION:MESSAGE-Q] (T077KKCG6) Enqueueing message with clientMsgId 80324d82-85a9-437d-ac9e-c668e8e04e36, queue has 1 messages 
+[07/30/20, 14:12:04:022] info: [ACTION:MESSAGE-Q] (T077KKCG6) Sending message with clientMsgId 80324d82-85a9-437d-ac9e-c668e8e04e36 
+[07/30/20, 14:12:04:023] info: [API-Q] (T077KKCG6) 51581052-1596107524.022 chat.postMessage called with reason: webapp_message_send 
+[07/30/20, 14:12:04:024] info: [API-Q] (T077KKCG6) 51581052-1596107524.022 chat.postMessage is ENQUEUED 
+[07/30/20, 14:12:04:024] info: [API-Q] (T077KKCG6) 51581052-1596107524.022 chat.postMessage is ACTIVE 
+[07/30/20, 14:12:04:025] info: [ACTION:MESSAGE-Q] (T077KKCG6) Shifting queue, now has 0 messages 
+[07/30/20, 14:12:04:028] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because (1) timestamps added 
+[07/30/20, 14:12:04:029] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017AJ7DPEG after a new message 
+[07/30/20, 14:12:04:029] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017AJ7DPEG because last_read >= latest && channel is read 
+[07/30/20, 14:12:04:522] info: [ACTION:MESSAGE] (T077KKCG6) Resolved a message with clientMsgId 80324d82-85a9-437d-ac9e-c668e8e04e36 in D017AJ7DPEG with ts 1596107524.000200 
+[07/30/20, 14:12:04:525] info: [ACTION:MESSAGE-Q] (T077KKCG6) Resolving active request with clientMsgId 80324d82-85a9-437d-ac9e-c668e8e04e36 
+[07/30/20, 14:12:04:527] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because (1) timestamps added 
+[07/30/20, 14:12:04:528] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because message removed 
+[07/30/20, 14:12:04:530] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017AJ7DPEG after a new message 
+[07/30/20, 14:12:04:530] info: [CHECK-UNREADS] (T077KKCG6) Marking D017AJ7DPEG because unread line is visible 
+[07/30/20, 14:12:04:530] info: [SET-LAST-READ] (T077KKCG6) markLastRead D017AJ7DPEG:1596107524.000200, immediate: undefined 
+[07/30/20, 14:12:04:531] info: [SET-LAST-READ] (T077KKCG6) delaying D017AJ7DPEG mark by 4107.224051779866ms 
+[07/30/20, 14:12:04:532] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because last_read changed to 1596107524.000200 
+[07/30/20, 14:12:04:612] info: [API-Q] (T077KKCG6) 51581052-1596107524.022 chat.postMessage is RESOLVED 
+[07/30/20, 14:12:08:643] info: [SET-LAST-READ] (T077KKCG6) delay resolved, marking D017AJ7DPEG with API 
+[07/30/20, 14:12:08:648] info: [API-Q] (T077KKCG6) 51581052-1596107528.647 conversations.mark called with reason: viewed 
+[07/30/20, 14:12:08:649] info: [API-Q] (T077KKCG6) 51581052-1596107528.647 conversations.mark is ENQUEUED 
+[07/30/20, 14:12:08:649] info: [API-Q] (T077KKCG6) 51581052-1596107528.647 conversations.mark is ACTIVE 
+[07/30/20, 14:12:08:807] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:12:09:492] info: [DRAFTS] (T077KKCG6) Storing draft changes locally - D017AJ7DPEG 
+[07/30/20, 14:12:12:410] info: [ACTION:MESSAGE] (T077KKCG6) Sent a message to D017AJ7DPEG via HTTP, clientMsgId: e1824151-2e61-45b5-b034-8153ac9e95c8 
+[07/30/20, 14:12:12:410] info: [ACTION:MESSAGE-Q] (T077KKCG6) Enqueueing message with clientMsgId e1824151-2e61-45b5-b034-8153ac9e95c8, queue has 1 messages 
+[07/30/20, 14:12:12:411] info: [ACTION:MESSAGE-Q] (T077KKCG6) Sending message with clientMsgId e1824151-2e61-45b5-b034-8153ac9e95c8 
+[07/30/20, 14:12:12:411] info: [API-Q] (T077KKCG6) 51581052-1596107532.410 chat.postMessage called with reason: webapp_message_send 
+[07/30/20, 14:12:12:412] info: [API-Q] (T077KKCG6) 51581052-1596107532.410 chat.postMessage is ENQUEUED 
+[07/30/20, 14:12:12:412] info: [API-Q] (T077KKCG6) 51581052-1596107532.410 chat.postMessage is ACTIVE 
+[07/30/20, 14:12:12:419] info: [ACTION:MESSAGE-Q] (T077KKCG6) Shifting queue, now has 0 messages 
+[07/30/20, 14:12:12:421] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because (1) timestamps added 
+[07/30/20, 14:12:12:422] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017AJ7DPEG after a new message 
+[07/30/20, 14:12:12:422] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017AJ7DPEG because last_read >= latest && channel is read 
+[07/30/20, 14:12:24:514] info: [ACTION:CHANNEL-SIDEBAR] Selected G017E5SRV7B 
+[07/30/20, 14:12:24:514] info: [CHANNEL-SIDEBAR] (T077KKCG6) onItemSelect G017E5SRV7B 
+[07/30/20, 14:12:24:520] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 14:12:24:521] info: [SWITCH-TO-CHANNEL] (T077KKCG6) Switching to G017E5SRV7B at last_read 1596085854.158300 
+[07/30/20, 14:12:24:561] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: G017E5SRV7B timestamps: 91 
+[07/30/20, 14:12:24:672] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 14:12:24:741] info: [API-Q] (T077KKCG6) noversion-1596107544.740 Flannel users/counts called with reason: flannel-call:users/counts 
+[07/30/20, 14:12:24:742] info: [API-Q] (T077KKCG6) noversion-1596107544.740 Flannel users/counts is ENQUEUED 
+[07/30/20, 14:12:24:742] info: [API-Q] (T077KKCG6) noversion-1596107544.740 Flannel users/counts is ACTIVE 
+[07/30/20, 14:12:24:744] info: [UNKNOWN-FETCH-MANAGER] (T077KKCG6) requesting UH51TBF2T,UQD4NK7BM (1) 
+[07/30/20, 14:12:24:745] info: [API-Q] (T077KKCG6) noversion-1596107544.744 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:12:24:746] info: [API-Q] (T077KKCG6) noversion-1596107544.744 Flannel users/info is ENQUEUED 
+[07/30/20, 14:12:24:746] info: [API-Q] (T077KKCG6) noversion-1596107544.744 Flannel users/info is ACTIVE 
+[07/30/20, 14:12:24:926] info: [API-Q] (T077KKCG6) 51581052-1596107532.410 chat.postMessage is RESOLVED 
+[07/30/20, 14:12:24:928] info: [ACTION:MESSAGE-Q] (T077KKCG6) Resolving active request with clientMsgId e1824151-2e61-45b5-b034-8153ac9e95c8 
+[07/30/20, 14:12:25:006] info: [ACTION:MESSAGE] (T077KKCG6) Resolved a message with clientMsgId e1824151-2e61-45b5-b034-8153ac9e95c8 in D017AJ7DPEG with ts 1596107544.000500 
+[07/30/20, 14:12:25:009] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because message removed 
+[07/30/20, 14:12:25:028] info: [API-Q] (T077KKCG6) noversion-1596107544.740 Flannel users/counts is RESOLVED 
+[07/30/20, 14:12:25:029] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after debounced channel change to G017E5SRV7B 
+[07/30/20, 14:12:25:029] info: [CHECK-UNREADS] (T077KKCG6) Marking G017E5SRV7B because unread line is visible 
+[07/30/20, 14:12:25:030] info: [SET-LAST-READ] (T077KKCG6) markLastRead G017E5SRV7B:1596105889.162400, immediate: undefined 
+[07/30/20, 14:12:25:032] info: [SET-LAST-READ] (T077KKCG6) delaying G017E5SRV7B mark by 2832.757381783827ms 
+[07/30/20, 14:12:25:032] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because last_read changed to 1596105889.162400 
+[07/30/20, 14:12:25:033] info: [COUNTS] (T077KKCG6) Updated unread_cnt for G017E5SRV7B: 0 
+[07/30/20, 14:12:25:086] info: [API-Q] (T077KKCG6) noversion-1596107544.744 Flannel users/info is RESOLVED 
+[07/30/20, 14:12:25:088] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 14:12:25:088] info: [CHECK-UNREADS] (T077KKCG6) Not marking G017E5SRV7B because last_read >= latest && channel is read 
+[07/30/20, 14:12:25:122] info: [UNKNOWN-FETCH-MANAGER] (T077KKCG6) received UH51TBF2T,UQD4NK7BM (1) 
+[07/30/20, 14:12:25:129] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017AJ7DPEG because last_read changed to 1596107544.000500 
+[07/30/20, 14:12:25:282] info: [API-Q] (T077KKCG6) 51581052-1596107528.647 conversations.mark is RESOLVED 
+[07/30/20, 14:12:25:758] info: [API-Q] (T077KKCG6) noversion-1596107545.757 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:12:25:759] info: [API-Q] (T077KKCG6) noversion-1596107545.757 Flannel users/info is ENQUEUED 
+[07/30/20, 14:12:25:760] info: [API-Q] (T077KKCG6) noversion-1596107545.757 Flannel users/info is ACTIVE 
+[07/30/20, 14:12:26:224] info: [API-Q] (T077KKCG6) noversion-1596107545.757 Flannel users/info is RESOLVED 
+[07/30/20, 14:12:26:807] info: [API-Q] (T077KKCG6) noversion-1596107546.805 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:12:26:808] info: [API-Q] (T077KKCG6) noversion-1596107546.805 Flannel users/info is ENQUEUED 
+[07/30/20, 14:12:26:809] info: [API-Q] (T077KKCG6) noversion-1596107546.805 Flannel users/info is ACTIVE 
+[07/30/20, 14:12:27:865] info: [SET-LAST-READ] (T077KKCG6) delay resolved, marking G017E5SRV7B with API 
+[07/30/20, 14:12:28:857] info: [API-Q] (T077KKCG6) noversion-1596107546.805 Flannel users/info is RESOLVED 
+[07/30/20, 14:12:28:859] info: [API-Q] (T077KKCG6) 51581052-1596107548.858 conversations.mark called with reason: viewed 
+[07/30/20, 14:12:28:860] info: [API-Q] (T077KKCG6) 51581052-1596107548.858 conversations.mark is ENQUEUED 
+[07/30/20, 14:12:28:861] info: [API-Q] (T077KKCG6) 51581052-1596107548.858 conversations.mark is ACTIVE 
+[07/30/20, 14:12:29:150] info: [API-Q] (T077KKCG6) 51581052-1596107548.858 conversations.mark is RESOLVED 
+[07/30/20, 14:12:49:403] info: [RTM] (T077KKCG6) Processed 1 message event(s) in 28.775 ms 
+[07/30/20, 14:12:49:482] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because (1) timestamps added 
+[07/30/20, 14:12:49:483] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in G017E5SRV7B after a new message 
+[07/30/20, 14:12:49:483] info: [CHECK-UNREADS] (T077KKCG6) Marking G017E5SRV7B because unread line is visible 
+[07/30/20, 14:12:49:484] info: [SET-LAST-READ] (T077KKCG6) markLastRead G017E5SRV7B:1596107568.162600, immediate: undefined 
+[07/30/20, 14:12:49:485] info: [SET-LAST-READ] (T077KKCG6) delaying G017E5SRV7B mark by 4051.9316404166716ms 
+[07/30/20, 14:12:49:486] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because last_read changed to 1596107568.162600 
+[07/30/20, 14:12:49:489] info: [API-Q] (T077KKCG6) noversion-1596107569.488 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:12:49:490] info: [API-Q] (T077KKCG6) noversion-1596107569.488 Flannel users/info is ENQUEUED 
+[07/30/20, 14:12:49:492] info: [API-Q] (T077KKCG6) noversion-1596107569.488 Flannel users/info is ACTIVE 
+[07/30/20, 14:12:49:827] info: [API-Q] (T077KKCG6) noversion-1596107569.488 Flannel users/info is RESOLVED 
+[07/30/20, 14:12:53:539] info: [SET-LAST-READ] (T077KKCG6) delay resolved, marking G017E5SRV7B with API 
+[07/30/20, 14:12:53:544] info: [API-Q] (T077KKCG6) 51581052-1596107573.542 conversations.mark called with reason: viewed 
+[07/30/20, 14:12:53:544] info: [API-Q] (T077KKCG6) 51581052-1596107573.542 conversations.mark is ENQUEUED 
+[07/30/20, 14:12:53:545] info: [API-Q] (T077KKCG6) 51581052-1596107573.542 conversations.mark is ACTIVE 
+[07/30/20, 14:12:57:042] info: [API-Q] (T077KKCG6) 51581052-1596107573.542 conversations.mark is RESOLVED 
+[07/30/20, 14:13:07:339] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 14:13:07:369] info: [API-Q] (T077KKCG6) 51581052-1596107587.369 conversations.replies called with reason: history-api/fetchReplies 
+[07/30/20, 14:13:07:370] info: [API-Q] (T077KKCG6) 51581052-1596107587.369 conversations.replies is ENQUEUED 
+[07/30/20, 14:13:07:371] info: [API-Q] (T077KKCG6) 51581052-1596107587.369 conversations.replies is ACTIVE 
+[07/30/20, 14:13:07:492] info: [UNKNOWN-FETCH-MANAGER] (T077KKCG6) requesting G017E5SRV7B-1596104763.162100 (1) 
+[07/30/20, 14:13:07:493] info: [API-Q] (T077KKCG6) 51581052-1596107587.492 subscriptions.thread.get called with reason: fetch-thread-subscriptions 
+[07/30/20, 14:13:07:494] info: [API-Q] (T077KKCG6) 51581052-1596107587.492 subscriptions.thread.get is ENQUEUED 
+[07/30/20, 14:13:07:495] info: [API-Q] (T077KKCG6) 51581052-1596107587.492 subscriptions.thread.get is ACTIVE 
+[07/30/20, 14:13:07:706] info: [API-Q] (T077KKCG6) 51581052-1596107587.369 conversations.replies is RESOLVED 
+[07/30/20, 14:13:07:926] info: [API-Q] (T077KKCG6) 51581052-1596107587.492 subscriptions.thread.get is RESOLVED 
+[07/30/20, 14:13:07:931] info: [UNKNOWN-FETCH-MANAGER] (T077KKCG6) received G017E5SRV7B-1596104763.162100 (1) 
+[07/30/20, 14:13:34:439] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 14:13:34:441] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connected to error 
+[07/30/20, 14:13:34:443] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 14:13:34:444] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 14:13:34:444] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 14:13:34:445] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 278 ms 
+[07/30/20, 14:13:34:447] info: [FLANNEL] (T077KKCG6) retrying user_subscribe_request call; attempt #1 of 3 
+[07/30/20, 14:13:34:447] info: [FLANNEL] (T077KKCG6) received a user_subscribe_request call while we are not connected; deferring 
+[07/30/20, 14:13:34:724] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 14:13:34:730] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 14:13:34:731] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 14:13:34:731] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 14:13:34:732] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 14:13:34:732] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 14:13:34:733] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 14:13:36:492] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to connected 
+[07/30/20, 14:13:36:493] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connected state for up to Infinity ms 
+[07/30/20, 14:13:36:496] info: [SOCKET-MANAGER] (T077KKCG6) Connected to primary region 
+[07/30/20, 14:13:36:500] info: [EVENTLOG] (T077KKCG6) fr=true, lc=false, lt=1596107576.004100 
+[07/30/20, 14:13:36:502] info: [FLANNEL] (T077KKCG6) connected and trouble free! Continuing deferred user_subscribe_request call 
+[07/30/20, 14:13:36:686] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because last_read changed to 1596105889.162400 
+[07/30/20, 14:13:36:781] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because last_read changed to 1596107568.162600 
+[07/30/20, 14:13:36:793] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because (1) timestamps added 
+[07/30/20, 14:13:37:188] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in G017E5SRV7B after a new message 
+[07/30/20, 14:13:37:189] info: [CHECK-UNREADS] (T077KKCG6) Not marking G017E5SRV7B because last_read >= latest && channel is read 
+[07/30/20, 14:13:38:669] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:13:38:675] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:13:49:709] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 14:13:57:712] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: true -> false 
+[07/30/20, 14:13:58:057] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 14:13:58:414] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 14:13:58:415] info: [CHECK-UNREADS] (T077KKCG6) Not marking G017E5SRV7B because last_read >= latest && channel is read 
+[07/30/20, 14:14:01:498] info: [ACTION:CHANNEL-SIDEBAR] Selected G0178LP6DN2 
+[07/30/20, 14:14:01:498] info: [CHANNEL-SIDEBAR] (T077KKCG6) onItemSelect G0178LP6DN2 
+[07/30/20, 14:14:01:507] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 14:14:01:508] info: [SWITCH-TO-CHANNEL] (T077KKCG6) Switching to G0178LP6DN2 at scrollmark 1595849079.003700 
+[07/30/20, 14:14:01:542] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: G0178LP6DN2 timestamps: 86 
+[07/30/20, 14:14:34:633] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 14:14:36:502] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 

@@ -4919,3 +4919,97 @@
 [07/30/20, 14:02:41:207] info: Store: SET_SYSTEM_IDLE active
 [07/30/20, 14:03:11:228] info: Store: SET_SYSTEM_IDLE idle_taskbar
 [07/30/20, 14:03:41:249] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:05:11:307] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:06:21:351] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:06:41:369] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:06:51:371] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:08:01:417] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:08:11:422] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:11:31:562] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:11:41:569] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:11:46:327] info: secondInstanceEpic: Otherwise signaled, foregrounding 
+[07/30/20, 14:11:46:327] info: Store: FOREGROUND_APP 
+[07/30/20, 14:11:46:340] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:11:46:423] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:11:46:679] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [unreads]
+[07/30/20, 14:11:46:723] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:11:47:352] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:11:47:415] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 14:11:54:836] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:12:24:529] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:14:01:516] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:14:34:595] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
