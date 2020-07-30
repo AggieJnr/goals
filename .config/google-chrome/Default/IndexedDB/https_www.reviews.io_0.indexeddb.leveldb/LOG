@@ -1,0 +1,5 @@
+2020/07/30-07:42:06.103 93a Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.reviews.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/30-07:42:41.542 c22 Level-0 table #5: started
+2020/07/30-07:42:41.552 c22 Level-0 table #5: 5719 bytes OK
+2020/07/30-07:42:41.560 c22 Delete type=0 #3
+2020/07/30-07:42:41.561 c22 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

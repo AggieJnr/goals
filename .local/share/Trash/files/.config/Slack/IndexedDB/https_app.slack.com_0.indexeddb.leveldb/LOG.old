@@ -1,0 +1,6 @@
+2020/07/26-10:27:47.791 6db Reusing MANIFEST /home/moringa/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/26-10:27:47.791 6db Recovering log #107
+2020/07/26-10:27:47.807 6db Reusing old log /home/moringa/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000107.log 
+2020/07/26-10:27:53.212 756 Level-0 table #113: started
+2020/07/26-10:27:53.234 756 Level-0 table #113: 1424200 bytes OK
+2020/07/26-10:27:53.238 756 Delete type=0 #107

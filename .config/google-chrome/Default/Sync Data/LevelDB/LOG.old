@@ -1,0 +1,6 @@
+2020/07/29-17:37:57.391 1053 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/07/29-17:37:57.391 1053 Recovering log #6
+2020/07/29-17:37:57.392 1053 Reusing old log /home/moringa/.config/google-chrome/Default/Sync Data/LevelDB/000006.log 
+2020/07/29-18:18:33.146 13ca Level-0 table #10: started
+2020/07/29-18:18:33.153 13ca Level-0 table #10: 101981 bytes OK
+2020/07/29-18:18:33.159 13ca Delete type=0 #6

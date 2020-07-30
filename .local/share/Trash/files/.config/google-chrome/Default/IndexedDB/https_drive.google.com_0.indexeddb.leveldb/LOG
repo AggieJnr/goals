@@ -1,0 +1,15 @@
+2020/07/27-14:30:41.881 1ef5 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/27-14:30:41.881 1ef5 Recovering log #214
+2020/07/27-14:30:41.881 1ef5 Reusing old log /home/moringa/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000214.log 
+2020/07/27-14:31:36.118 8d2 Level-0 table #218: started
+2020/07/27-14:31:36.133 8d2 Level-0 table #218: 138798 bytes OK
+2020/07/27-14:31:36.137 8d2 Delete type=0 #214
+2020/07/27-14:31:36.138 8d2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/27-14:31:36.138 8d2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x03\x02\x01%\x002\x002\x00b\x007\x007\x00a\x00b\x00e\x002\x00b\x009\x001\x005\x003\x003\x000\x008\x002\x007\x007\x006\x00b\x004\x009\x00f\x00e\x00b\x00d\x00b\x000\x000\x007\x00_\x006\x00:\x000\x000' @ 5348 : 1
+2020/07/27-14:31:36.138 8d2 Compacting 1@1 + 1@2 files
+2020/07/27-14:31:36.143 8d2 Generated table #219@1: 99 keys, 42211 bytes
+2020/07/27-14:31:36.143 8d2 Compacted 1@1 + 1@2 files => 42211 bytes
+2020/07/27-14:31:36.148 8d2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/27-14:31:36.148 8d2 Delete type=2 #218
+2020/07/27-14:31:36.148 8d2 Delete type=2 #212
+2020/07/27-14:31:36.148 8d2 Manual compaction at level-1 from '\x00\x03\x03\x02\x01%\x002\x002\x00b\x007\x007\x00a\x00b\x00e\x002\x00b\x009\x001\x005\x003\x003\x000\x008\x002\x007\x007\x006\x00b\x004\x009\x00f\x00e\x00b\x00d\x00b\x000\x000\x007\x00_\x006\x00:\x000\x000' @ 5348 : 1 .. (end); will stop at (end)

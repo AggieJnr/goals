@@ -1,0 +1,3 @@
+[2020-07-22 00:34:52.190] [sharedprocess] [info] main {"machineId":"317b79f99e9c6e09967dc1ede4b95c96df493953003d7c68917b73d26d9383b2","windowId":2}
+[2020-07-22 00:34:52.221] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/moringa/.config/Code/User/snippets'
+[2020-07-22 00:35:32.200] [sharedprocess] [info] Starting to clean up unused language packs.

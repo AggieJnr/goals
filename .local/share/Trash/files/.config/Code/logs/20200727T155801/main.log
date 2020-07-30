@@ -1,0 +1,75 @@
+[2020-07-27 15:58:01.699] [main] [info] update#setState idle
+[2020-07-27 15:58:31.707] [main] [info] update#setState checking for updates
+[2020-07-27 15:58:32.056] [main] [info] update#setState available for download
+[2020-07-27 15:59:19.891] [main] [error] Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/storage.json'
+    at Object.openSync (original-fs.js:447:3)
+    at Object.t.writeFileSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:171:25)
+    at u.saveSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:317)
+    at u.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:112)
+    at e.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:649)
+    at e.updateMenu (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:564:803)
+    at c.updateMenubar (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:576:914)
+[2020-07-27 15:59:38.160] [main] [error] Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/storage.json'
+    at Object.openSync (original-fs.js:447:3)
+    at Object.t.writeFileSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:171:25)
+    at u.saveSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:317)
+    at u.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:112)
+    at e.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:649)
+    at e.updateMenu (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:564:803)
+    at c.updateMenubar (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:576:914)
+[2020-07-27 16:00:16.069] [main] [error] Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/storage.json'
+    at Object.openSync (original-fs.js:447:3)
+    at Object.t.writeFileSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:171:25)
+    at u.saveSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:317)
+    at u.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:112)
+    at e.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:649)
+    at e.updateMenu (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:564:803)
+    at c.updateMenubar (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:576:914)
+[2020-07-27 16:00:39.521] [main] [error] Backup: Could not save workspaces.json: Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/Backups/workspaces.json'
+[2020-07-27 16:00:39.538] [main] [error] Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/storage.json'
+    at Object.openSync (original-fs.js:447:3)
+    at Object.t.writeFileSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:171:25)
+    at u.saveSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:317)
+    at u.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:112)
+    at e.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:649)
+    at e.saveRecentlyOpened (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:559:66)
+    at e.addRecentlyOpened (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:556:617)
+    at t.open (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:583:230)
+    at t.openEmptyWindow (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:581:258)
+    at m.doOpenEmptyWindow (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:503:567)
+    at m.openWindow (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:503:91)
+    at Object.call (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:191:81)
+    at E.onPromise (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:183:384)
+    at E.onRawMessage (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:183:13)
+    at /usr/share/code/resources/app/out/vs/code/electron-main/main.js:182:535
+    at l.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:52:801)
+    at /usr/share/code/resources/app/out/vs/code/electron-main/main.js:48:325
+    at l.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:52:801)
+    at /usr/share/code/resources/app/out/vs/code/electron-main/main.js:48:471
+    at l.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:52:801)
+    at IpcMain.n (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:50:131)
+    at IpcMain.emit (events.js:203:13)
+    at WebContents.<anonymous> (electron/js2c/browser_init.js:3962:15)
+    at WebContents.emit (events.js:203:13)
+[2020-07-27 16:00:39.581] [main] [error] Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/storage.json'
+    at Object.openSync (original-fs.js:447:3)
+    at Object.t.writeFileSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:171:25)
+    at u.saveSync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:317)
+    at u.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:112)
+    at e.setItem (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:400:649)
+    at t.saveWindowsState (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:580:181)
+    at App.<anonymous> (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:578:975)
+    at App.emit (events.js:208:15)
+    at BrowserWindow.<anonymous> (electron/js2c/browser_init.js:634:9)
+    at BrowserWindow.emit (events.js:203:13)
+[2020-07-27 16:00:40.713] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.activity.placeholderViewlets Length: 883
+[2020-07-27 16:00:41.589] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.activity.placeholderViewlets Length: 1974
+[2020-07-27 16:05:52.427] [main] [error] Backup: Could not save workspaces.json: Error: ENOENT: no such file or directory, open '/home/moringa/.config/Code/Backups/workspaces.json'
+[2020-07-27 16:05:53.608] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.activity.placeholderViewlets Length: 883
+[2020-07-27 16:05:54.262] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.activity.placeholderViewlets Length: 1974
+[2020-07-27 16:06:14.656] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorFontInfo Length: 454
+[2020-07-27 16:06:15.808] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.activity.placeholderViewlets Length: 883
+[2020-07-27 16:06:16.641] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.activity.placeholderViewlets Length: 1974
+[2020-07-27 16:07:04.817] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: extensionsAssistant/recommendations Length: 2
+[2020-07-27 16:12:36.262] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorFontInfo Length: 918
+[2020-07-27 16:12:36.264] [main] [error] Error: ENOENT: no such file or directory, unlink '/home/moringa/.config/Code/User/globalStorage/state.vscdb'

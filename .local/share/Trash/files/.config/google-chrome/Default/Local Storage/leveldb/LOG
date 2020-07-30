@@ -1,0 +1,39 @@
+2020/07/27-08:27:08.501 774 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/07/27-08:27:08.501 774 Recovering log #134
+2020/07/27-08:27:08.504 774 Reusing old log /home/moringa/.config/google-chrome/Default/Local Storage/leveldb/000134.log 
+2020/07/27-08:49:21.838 c27 Level-0 table #137: started
+2020/07/27-08:49:21.844 c27 Level-0 table #137: 17923 bytes OK
+2020/07/27-08:49:21.853 c27 Delete type=0 #134
+2020/07/27-08:50:33.439 c27 Level-0 table #139: started
+2020/07/27-08:50:33.460 c27 Level-0 table #139: 492846 bytes OK
+2020/07/27-08:50:33.472 c27 Delete type=0 #136
+2020/07/27-08:50:33.473 c27 Compacting 4@0 + 1@1 files
+2020/07/27-08:50:33.504 c27 Generated table #140@0: 875 keys, 634067 bytes
+2020/07/27-08:50:33.504 c27 Compacted 4@0 + 1@1 files => 634067 bytes
+2020/07/27-08:50:33.516 c27 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/27-08:50:33.517 c27 Delete type=2 #139
+2020/07/27-08:50:33.517 c27 Delete type=2 #129
+2020/07/27-08:50:33.517 c27 Delete type=2 #133
+2020/07/27-08:50:33.517 c27 Delete type=2 #131
+2020/07/27-08:50:33.517 c27 Delete type=2 #137
+2020/07/27-13:55:41.542 c27 Level-0 table #142: started
+2020/07/27-13:55:41.556 c27 Level-0 table #142: 25867 bytes OK
+2020/07/27-13:55:41.560 c27 Delete type=0 #138
+2020/07/27-15:42:14.954 c27 Level-0 table #144: started
+2020/07/27-15:42:14.959 c27 Level-0 table #144: 44308 bytes OK
+2020/07/27-15:42:14.964 c27 Delete type=0 #141
+2020/07/27-15:45:16.755 c27 Level-0 table #146: started
+2020/07/27-15:45:16.762 c27 Level-0 table #146: 37427 bytes OK
+2020/07/27-15:45:16.767 c27 Delete type=0 #143
+2020/07/27-15:54:25.339 c27 Level-0 table #148: started
+2020/07/27-15:54:25.345 c27 Level-0 table #148: 31909 bytes OK
+2020/07/27-15:54:25.350 c27 Delete type=0 #145
+2020/07/27-15:54:25.350 c27 Compacting 4@0 + 1@1 files
+2020/07/27-15:54:25.375 c27 Generated table #149@0: 1005 keys, 699842 bytes
+2020/07/27-15:54:25.375 c27 Compacted 4@0 + 1@1 files => 699842 bytes
+2020/07/27-15:54:25.380 c27 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/27-15:54:25.380 c27 Delete type=2 #146
+2020/07/27-15:54:25.380 c27 Delete type=2 #148
+2020/07/27-15:54:25.380 c27 Delete type=2 #144
+2020/07/27-15:54:25.380 c27 Delete type=2 #140
+2020/07/27-15:54:25.380 c27 Delete type=2 #142

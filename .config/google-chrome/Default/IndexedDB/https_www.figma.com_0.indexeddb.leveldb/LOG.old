@@ -1,0 +1,15 @@
+2020/07/30-10:47:19.457 265c Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/30-10:47:19.458 265c Recovering log #7
+2020/07/30-10:47:19.458 265c Reusing old log /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000007.log 
+2020/07/30-10:47:32.394 c22 Level-0 table #11: started
+2020/07/30-10:47:32.398 c22 Level-0 table #11: 190 bytes OK
+2020/07/30-10:47:32.402 c22 Delete type=0 #7
+2020/07/30-10:47:32.402 c22 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/30-10:47:32.402 c22 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 44 : 1
+2020/07/30-10:47:32.402 c22 Compacting 1@1 + 1@2 files
+2020/07/30-10:47:32.409 c22 Generated table #12@1: 18 keys, 483 bytes
+2020/07/30-10:47:32.409 c22 Compacted 1@1 + 1@2 files => 483 bytes
+2020/07/30-10:47:32.414 c22 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/30-10:47:32.414 c22 Delete type=2 #11
+2020/07/30-10:47:32.414 c22 Delete type=2 #5
+2020/07/30-10:47:32.414 c22 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 44 : 1 .. (end); will stop at (end)

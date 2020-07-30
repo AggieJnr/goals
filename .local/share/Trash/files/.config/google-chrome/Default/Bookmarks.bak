@@ -1,0 +1,132 @@
+{
+   "checksum": "948da6db9f23536746294e4e7e46255a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13086106531919335",
+            "guid": "43bf6c42-2dc8-f58b-a2e1-0082f2ae7f52",
+            "id": "12",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13238852021057494",
+            "guid": "f115bc1f-7387-4638-99b1-a7a79cf48382",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13238852021058273",
+            "guid": "95282d01-7bdf-4f16-972e-1ce6cf5cf69f",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13238852021058975",
+            "guid": "bd183160-5bfd-4c38-b6b8-53a74817a203",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13238852030682763",
+            "guid": "a8ff0512-835e-419c-a80a-43fd5d95400d",
+            "id": "8",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13239273589759358",
+            "guid": "915fd011-32a7-45ee-9f0c-ed62cf91e3c3",
+            "id": "14",
+            "name": "access15",
+            "type": "url",
+            "url": "https://moringaschool.instructure.com/courses/263"
+         }, {
+            "date_added": "13239353180049143",
+            "guid": "e6d8bd58-6876-4e02-a119-0c8e40ba8000",
+            "id": "17",
+            "name": "W3Schools How TO - Code snippets for HTML, CSS and JavaScript",
+            "type": "url",
+            "url": "https://www.w3schools.com/howto/default.asp"
+         }, {
+            "date_added": "13239362446298757",
+            "guid": "afd33c36-2425-4725-a522-6295707a850a",
+            "id": "18",
+            "name": "Stand ups - Google Slides",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/19j4JvBdRgF2iS8_W8Tk3CLoQdbnxmKGmmdeE8F9i834/edit#slide=id.g8c24c25b24_0_16"
+         }, {
+            "date_added": "13239743831866498",
+            "guid": "b8be3ea4-9639-40d0-aa96-c252fbacd49e",
+            "id": "20",
+            "name": "An introduction to Git: what it is, and how to use it - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1rBLoIjnte9zHS-LbtCUJucgO5RfwNcw2jo8J1lgcUts/edit"
+         }, {
+            "date_added": "13239808670495210",
+            "guid": "3967af5a-eb5b-4eb4-a679-9dd2140b0bad",
+            "id": "22",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13239813364031054",
+            "guid": "f175196e-cf9c-4148-986f-654ef91289a2",
+            "id": "23",
+            "name": "Git and Github presentation.(Ronald&Florence) - Google Slides",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1dvkYP54_bMtKQ83qh0H2JdRTjklEdAqKvowrWjsC8YY/edit#slide=id.g8c795985a3_1_2"
+         }, {
+            "date_added": "13239831917584516",
+            "guid": "06e94c27-b3b9-4f3e-bc72-907da6be7375",
+            "id": "24",
+            "name": "fifa world cup russia - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=fifa+world+cup+russia&sxsrf=ALeKk03Md0q4NQcijboESy4c_qiGYa7ZyQ:1595344266891&source=lnms&tbm=isch&sa=X&ved=2ahUKEwif78nC0N7qAhVk1uAKHRBNC8EQ_AUoAXoECBwQAw&biw=1307&bih=637"
+         } ],
+         "date_added": "13238852000854490",
+         "date_modified": "13239831917584516",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13238852000854496",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13145828726543665",
+            "guid": "3029d825-77bd-473b-9ebd-4c680fe4d034",
+            "id": "10",
+            "name": "Sportpesa :: Get in the Game",
+            "type": "url",
+            "url": "https://www.sportpesa.com/?sportId=1&todaygames=1"
+         }, {
+            "date_added": "13223766323588655",
+            "guid": "cebd9742-0fc3-4dcb-9755-3e49e03bcc7b",
+            "id": "11",
+            "name": "Viewing payed advertising sites ltymoney.xyz - Welcome!",
+            "type": "url",
+            "url": "https://ltymoney.xyz/showadv.php?rstr=0.4004066836208713"
+         } ],
+         "date_added": "13238852000854497",
+         "date_modified": "13223766323588655",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpARJ2CAISOAoGCgJibRABEDMaEgkAVlZQ+KoFACEAVlZQ+KoFADIYChYIAhEle8Rg+KoFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJAFZWUPiqBQAhAFZWUPiqBQAyGAoWCAIRJXvEYPiqBQAYACEAAAAAAAAAACAAMh9BME5WWE1hMFhrb2ZBSWVTTUtyZ244RTBIR0FzTnhjSJjMo5a3LnCYzKOWty4SACABKhhNSTVjYWxWcmhyNFFoRzVYVjFRbjJBPT0SvgEIAxK5AQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRJmWjpBRHF0QVp3SWhmOWVUNkhUN3FGWi8zbldIR2psRGViMjZPblMwVXdBUUhVWnBmWkdseU90VmpNTnppN09MR1JwbUNoZHoxRE1kZmFVcWlmOU9zMHM4amZickxpVTV1QmRkUT09GAAgACgAMLySxJT5xeoCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAEr4BCAISuQEKHHpEVkdycnRaTGRNKzRCVHliZytIQ09yV2d5bz0SZlo6QURxdEFad2ExSTBsQWlNTUh2b2NpWUVLY2RqbFBteXh3bVNXMjladHNCWWJTZGFFdTVUenN3bDdlaGk0R25PTUc0QzNKSUJ6eXp5a1ZxbGwrakxkVW11WXMvbHU0aEFSY2c9PRgAIAAoADC8ksSU+cXqAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aABKmAQgBEqEBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9Ek5aOkFEcXRBWnlkd2F6VzBqa2VZMHQvelpsUU9oTzUxbkp0clNxSmlRT1d0Y0w5VmI3STVqUTgyUjBXZ1pGZ3R4QnZLWFgyMWJ5ZGNFajIYACAAKAAwvJLElPnF6gI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgASmAIIDBKTAgocVW9vQndBVk1rNUltT3BjYnpyVnN3ZFpLVnprPRJ6WjpBRHF0QVp6YlNBaDJJdnpIdkpMaUFjck8yVlVYUldUMlNNenZLZkY3bUJXNHpDdE5oTUhUNWhmUXdSWklSeVB5dXJSWnJpTE91eWM3WlRaQTFacVN6bU5sQnBuaVkyRFhkZ0l6a3JMVGthTVRNSVR5eVpFYjVwUT0YACACKAIwpLGV2tPJ6gI40KCTwPopQKS04re0LkocSkMxa0YvbVNOSUMwL3hkU2VweERRbSsyU0tvPVo8Chw4RmNraEhHQlhuaWlkNE9SaENOZkV3YUZjMDQ9Ihw4RmNraEhHQlhuaWlkNE9SaENOZkV3YUZjMDQ9EqgCCBQSowIKHDNkdDNDa1NDTFJYTzdtOC9tNm45dDZ0dHRXdz0SpgFaOkFEcXRBWnpiU0FoMkl2ekh2SkxpQWNyTzJWVVhXTE5YN3VhWERFbDN3MGRETVJ4TjkrU3ViNk81MEhlUnpmM0pLWnNwR0N3bFJaNTJDSGhSc2tvczZGQVB3MkhSZXdkT0NKcGpGc2NMMXBhcndzNU9sdXJJU3hYVUpSSExzaFprOG5HUStiemx5MzhOSEVuRDRwdng2QTZVVFRmRE45bnFoQT09GAAgAigCMP/F0+O83OoCOLvuj+y2LkCe25Dsti5KHDJ0Tno2WGM2QUY0L0RqZXFIRnM5dVJ3TkdmND1aHyId/2dkRDdtcXdBSE9ZZU1DUDl2eFF3YXhpTjc1WT0SqQIIFhKkAgocR284UXQwc2p0bUlvWlNKRlZ1RTQvS1NXTFBvPRKmAVo6QURxdEFaemJTQWgySXZ6SHZKTGlBY3JPMlZVWFdMTlg3dWFYREVsM3cwZERNUnhOOS9oUDFHSlVwMTE5Z3lLeUJyYi9qT05mZzY1d2xZL2lFMGN4eDlIZCtKellycnlmZDduWE82WDRyV1pMQ28zZlpic1RnM3Q2TXpRUHFNUi90M3dFRS9ReDNKdnBqUHZMTGJpc1R1akh4eVZkWWJHa1lnPT0YACACKAIw1d+3oq7e6gI4oKaFi7cuQKOmhYu3LkocLzVQbFBxL1JmTEVzdEp6ZitTTU9VUTFlTk93PVogIh7/s1RsS0lyUzl6dkJHcEpnNWtNNi9nTHZhTDZPMD0SqAIIBxKjAgocQUp6Tm1COUkzUFZrNXlhdDNFN3lsc0swUHZFPRKmAVo6QURxdEFaemJTQWgySXZ6SHZKTGlBY3JPMlZVWFdMTlg3dWFYREVsM3cwZERNUnhOOTBINkJmQ1pZWlBOWEY1RmhrQmVWUUFFMzQyMWdVakE1MUxoQ0xPZytRTHlvdE1objBsZmFnbDczc2diZThGMGRHd1ZDNVJYWktGSitQT3NTTm5XcTJCQ3BPaVMrZDVUVWprWXZFWktUZ29lYXNuSjVnPT0YACABKAEwwvKelfnF6gI4mtuD+7MuQJrbg/uzLkocMTZYdWlRRUQ5bjZPRHZSNk9KK2cwOEp3aW5FPVofIh3ccVNCWHFqc0JqbWFwMHdvK01PL0tRWFViWFNzPRKoAggREqMCChx6eXFtZ0szTVAya2dzY21lTi9CZGl4bGgxSWc9EqYBWjpBRHF0QVp6YlNBaDJJdnpIdkpMaUFjck8yVlVYV0xOWDd1YVhERWwzdzBkRE1SeE45MjF6MGR2Y0o0QmpUbG1LZzBmRXJpUHQzSnBIenpHNWZveHZRZzRXT2tNdGgwdVpyYVRUQVNobUZ5ZUxnU1Q0TVVvYWVpeC9SdU4vNUUyUmtySlRNaUg3UEhUdURDS3JGNlQ5T3BRZ1d6cTVCdzhzeWc9PRgAIAIoAjCbori5jdHqAjiRr+yxtS5A+szssbUuShxUVjQ2TVNubURSc3NjMnpoeTZmbVhmdWxkSEk9Wh8iHf1vdWtVeWpsRkROQXUzQzIyZmZiRTlKK1J4VEE9EqkCCBgSpAIKHG5SRlVudzB0SklteU9KZURpb0xTeUdHZ1FOMD0SpgFaOkFEcXRBWnpiU0FoMkl2ekh2SkxpQWNyTzJWVVhXTE5YN3VhWERFbDN3MGRETVJ4TjkyUTVBd3l0V01XMkhCM21SNktIVjJac3ZQeVlWbWdpSnJ2VTNBVFc5REZ3WXRCYVZnQ1JNTnpVcHBod2pkUG5iQnhKMXpGY3pseThudkxFVEhjK2IyOFBsdklEVm1pOGt5LzdLcFEvalBDd2N4ejMzQT09GAAgAigCMJmohPCE3+oCOJCYkJa3LkCTmJCWty5KHERqOWRqb2pOTUtUbWVqV1BodDhZUWtWUTNZVT1aICIe/+x5cEdScjZDZGY1ZFl0ZmlyYjB0U2R3amtQVjQ9EqgCCAYSowIKHFY5UTV1QnBYSldhdVQ1SWp0eXdBWGV0dGZaVT0SpgFaOkFEcXRBWnpiU0FoMkl2ekh2SkxpQWNyTzJWVVhXTE5YN3VhWERFbDN3MGRETVJ4Tjk1d2ZKbW9Bdk9jNThlcjhkYzZGakdUVm0yVk8rWG1YekdyZ0V6N201di8vUm8vc2ZONUFnaHVBN3A1a3JvVWJHWHo4WWgvdUFhZ0RMR29XS0IzcDNuT1RHTzBJNWlLV2crMytoMFpiR1FxdlBvNzdOUT09GAAgAigCMIO9ls3lz+oCOJnbg/uzLkCuuK6ctS5KHFlqY2M1cHNyRnQ4cCtUVzBlNW90bTdaTkIycz1aHyIduXI2T0VYTkJFcEsvM3ZEOWxwQ3RzeUZCY25TZz0SqAIIDhKjAgoceWp3UWRXaElkVHB5RHNXTFhCeWU3QnF0RW5ZPRKmAVo6QURxdEFaemJTQWgySXZ6SHZKTGlBY3JPMlZVWFdMTlg3dWFYREVsM3cwZERNUnhOOTZKZkY1NzZ5TmRkYlBKU1dUTld3cWFwQWdDYWc0NVhoaDVERnRjR3YzZU0xUHBhbDNwNXZyQkRodzZPb1J5RVJmcTgvNWpobjM3SGNISUZJR3NkdWdDd3BIVVBHUlorNm5VWFphekNYZ0I1d2Z0Mmh3PT0YACACKAIwpu+G+OTO6gI4gMjyi7UuQILI8ou1LkocM0Y0STJhVHBpUFNqRldySXVGUG9CNEV4UFlzPVofIh33WU1NTHhtSFRiSWI0dVBHZWdCWGZYQ2JBajNFPRKoAggIEqMCChw3MnFUTWsyTnBXQ0pOTkR1VEZ5SHFSampiYWM9EqYBWjpBRHF0QVp6YlNBaDJJdnpIdkpMaUFjck8yVlVYV0xOWDd1YVhERWwzdzBkRE1SeE45NmFxY0dRN3AvQlJydTA4czZnYW9iSmpydFpZS2xEb09UR0FqZDJOUVUyMWJ5RnkwRmExUzJJVDJ3NnNmNjh0d1ZCaFh4UmpWamdCT2tQS0dhcXdYakVOaFVoSTQ4YUMzMHoyZGNBK1lPYW1VSU9JdVE9PRgAIAEoATDC8p6V+cXqAjia24P7sy5AmtuD+7MuShxWWERHY2lOM3RDTHBIWUd3T3ozQ3R1cUlDYlE9Wh8iHe5LVlhRTXVZck1hNkg1Y05zbkpQbFhUVVZGdGc9EqgCCBISowIKHFNsZmlNYWtGaHFlS3RUSmpjRERGOEY0bTltTT0SpgFaOkFEcXRBWnpiU0FoMkl2ekh2SkxpQWNyTzJWVVhXTE5YN3VhWERFbDN3MGRETVJ4Tjl4UnhieTNVN0hXSzZKUVFkeEd4K3M5Mml4V0k0blhrS0Z1SGFIcmJwb1Bxc1UyeEsrV1dLRy9xUk1iU2orNndyWUIrSml2RzlpSkMySUh3bGhLYXFiTlpoS2FTQUkrYnZQT2RzUk9od1NiWW1sV01SUT09GAAgAigCMI3Tj/qv0eoCONv3oba1LkDe96G2tS5KHHYyTkp6Y1VnUkxkOHQ0c0VzWmFWL2o2UW8zcz1aHyId/ldQT1NXc2xINWRzRmxZVDFMTEYzRGUxVGNZUT0SpwIIBRKiAgocTThRdGwrbi83OUIzU0NNRVp2RzB1MXpXMjBRPRKmAVo6QURxdEFaemJTQWgySXZ6SHZKTGlBY3JPMlZVWFdMTlg3dWFYREVsM3cwZERNUnhOOXk5cHBZTE5FaTU0YVA2V1QvbWgwcHlJdDhIR3JDNWo0MklGMnFCK0I3TEJrTFIwZ3ZYSFlvdk1uRnhqZGlrb3hFRHJrTTJrajRzSnpzUlc1bm5sN29SVWJ5Ujl6OGhzbjV1OXBNQldqNW9pckNsKzRnPT0YACABKAEwwvKelfnF6gI4mduD+7MuQJnbg/uzLkocN3NkMW00anlleFpUZnZzOVAwZzlxRm1HNUZFPVoeIhxybXFnVzFWcE5zdEhuS0dEaW5QN1lrSS9LeEk9EqkCCBcSpAIKHExubkM4WTdkYnJ1R3Jib1hlV1k5dXF6THJvST0SpgFaOkFEcXRBWnpiU0FoMkl2ekh2SkxpQWNyTzJWVVhXTE5YN3VhWERFbDN3MGRETVJ4Tjl6UzR0aU16LzVRUi8rbGRZdWhOSXR2RkFHbWdhdlpBZC9xb29rYVR3NTRuaFlBYW4zWlhUUFltZjFvUEpQZDZ2OGYrbHlzbjhCTEZ3STE4OVBBdXBVNmdvNlpwQnV2Z096V1JIZjVMY3lOdS9neXp3UT09GAAgAigCMOnW5uC/3uoCOMHio423LkDx5KONty5KHGl5MHJabW5TdkRNelZJM1Axb25NR1QvUGJPWT1aICIe/9lTNkNUWUdZUFhVTHZsREJZNllBTDFoZnVzRVE9EqgCCAsSowIKHHcwSHJ0b0NlSnNuaTNFQVMzQ0wxMkdxcDJXcz0SpgFaOkFEcXRBWnpiU0FoMkl2ekh2SkxpQWNyTzJWVVhhNEdPeUtmTU50S1RxRzAvT0p1STFqT25vdzkrL1BRN1o3NVJqYVI4U3pIWTNBbGh2Q2xDN29HQ1JtdlBpWm8vcWdZbnZQckszWFhlZ04wSGJ3cXFMS1FwZVgvTzdSNUhUZkV5UG1ybG5UY1BYNEZZVXhvK21Cc3VUNG1CRXhEMTg3UWdkdz09GAAgACgAMKfTw5rQwucCOIeTuqn7LUCHk7qp+y1KHCtrTTVRWTFnejdnTHVoQ0djRkF6b2pLbDlraz1aHyIdu0NhQkV3TVJwQjZXUVFHTUdWZ1Q2WjljODZBWT0SpwIIChKiAgocUUNSUXR2dmU5M2VET00zdHRHdm9nOW1pMVZBPRKmAVo6QURxdEFaemJTQWgySXZ6SHZKTGlBY3JPMlZVWHpsOFk5K2JsNlhkYmR3dVBjdU50dmVRc3VwTE55WGtETW9KNkNtWlhYM1VFT3lXZFV6UGxJdWFCeWprdmVmR2NWQmJiSDRUT3BuN3p0SlpmU0lJNVhqV3Nsa0t0eklwdDhZUVpmdy9FVERRLzZJM3loaGFWYTFJTG5KQVJjOXZ0VmlZVTRnPT0YACABKAEwwvKelfnF6gI4nd70/dgrQKjbg/uzLkocc3Noajk3N3o2ZjBjVzFOVzZiZVpwYTloM2FzPVoeIhx3NXhjQzhBdXNUUTB1R3ZYVnJYcWpBc2tsanc9GAA=",
+   "version": 1
+}

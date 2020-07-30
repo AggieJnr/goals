@@ -1,0 +1,5 @@
+2020/07/27-15:44:03.124 23d5 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_linuxtechlab.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/27-15:45:34.223 8d2 Level-0 table #5: started
+2020/07/27-15:45:34.227 8d2 Level-0 table #5: 6734 bytes OK
+2020/07/27-15:45:34.232 8d2 Delete type=0 #3
+2020/07/27-15:45:34.232 8d2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

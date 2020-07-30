@@ -1,0 +1,30 @@
+2020/07/30-07:27:28.028 91a Reusing MANIFEST /home/moringa/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/07/30-07:27:28.028 91a Recovering log #9
+2020/07/30-07:27:28.029 91a Reusing old log /home/moringa/.config/google-chrome/Default/Sync Data/LevelDB/000009.log 
+2020/07/30-08:04:50.572 1117 Level-0 table #13: started
+2020/07/30-08:04:50.579 1117 Level-0 table #13: 124653 bytes OK
+2020/07/30-08:04:50.584 1117 Delete type=0 #9
+2020/07/30-08:23:15.391 1117 Level-0 table #15: started
+2020/07/30-08:23:15.398 1117 Level-0 table #15: 119641 bytes OK
+2020/07/30-08:23:15.403 1117 Delete type=0 #12
+2020/07/30-10:17:49.634 1117 Level-0 table #17: started
+2020/07/30-10:17:49.640 1117 Level-0 table #17: 106738 bytes OK
+2020/07/30-10:17:49.645 1117 Delete type=0 #14
+2020/07/30-10:17:49.645 1117 Compacting 4@0 + 1@1 files
+2020/07/30-10:17:49.656 1117 Generated table #18@0: 41 keys, 9905 bytes
+2020/07/30-10:17:49.656 1117 Compacted 4@0 + 1@1 files => 9905 bytes
+2020/07/30-10:17:49.660 1117 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/30-10:17:49.660 1117 Delete type=2 #15
+2020/07/30-10:17:49.660 1117 Delete type=2 #10
+2020/07/30-10:17:49.660 1117 Delete type=2 #7
+2020/07/30-10:17:49.660 1117 Delete type=2 #13
+2020/07/30-10:17:49.660 1117 Delete type=2 #17
+2020/07/30-10:32:52.208 1117 Level-0 table #20: started
+2020/07/30-10:32:52.220 1117 Level-0 table #20: 129206 bytes OK
+2020/07/30-10:32:52.225 1117 Delete type=0 #16
+2020/07/30-12:46:35.021 1117 Level-0 table #22: started
+2020/07/30-12:46:35.028 1117 Level-0 table #22: 106627 bytes OK
+2020/07/30-12:46:35.034 1117 Delete type=0 #19
+2020/07/30-13:26:04.434 1117 Level-0 table #24: started
+2020/07/30-13:26:04.442 1117 Level-0 table #24: 95481 bytes OK
+2020/07/30-13:26:04.448 1117 Delete type=0 #21

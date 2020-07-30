@@ -1,0 +1,8 @@
+2020/07/23-21:19:55.476 60ae Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.pulse.com.gh_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/23-21:19:55.476 60ae Recovering log #4
+2020/07/23-21:19:55.477 60ae Reusing old log /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.pulse.com.gh_0.indexeddb.leveldb/000004.log 
+2020/07/23-21:20:29.325 98b Level-0 table #8: started
+2020/07/23-21:20:29.325 98b Level-0 table #8: 0 bytes OK
+2020/07/23-21:20:29.332 98b Delete type=0 #4
+2020/07/23-21:20:29.332 98b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/23-21:20:29.332 98b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

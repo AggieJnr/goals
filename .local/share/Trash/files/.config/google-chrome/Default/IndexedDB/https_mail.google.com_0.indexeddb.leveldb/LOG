@@ -1,0 +1,25 @@
+2020/07/23-14:32:04.623 3340 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/23-14:32:04.624 3340 Recovering log #11
+2020/07/23-14:32:04.641 3340 Reusing old log /home/moringa/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2020/07/23-14:32:50.414 98b Level-0 table #16: started
+2020/07/23-14:32:50.440 98b Level-0 table #16: 1842251 bytes OK
+2020/07/23-14:32:50.446 98b Delete type=0 #11
+2020/07/23-14:33:42.793 98b Level-0 table #18: started
+2020/07/23-14:33:42.797 98b Level-0 table #18: 5354 bytes OK
+2020/07/23-14:33:42.802 98b Delete type=0 #15
+2020/07/23-14:33:42.802 98b Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 15066 : 1
+2020/07/23-14:33:42.802 98b Compacting 1@0 + 1@1 files
+2020/07/23-14:33:42.818 98b Generated table #19@0: 1248 keys, 361753 bytes
+2020/07/23-14:33:42.818 98b Compacted 1@0 + 1@1 files => 361753 bytes
+2020/07/23-14:33:42.823 98b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/23-14:33:42.823 98b Delete type=2 #16
+2020/07/23-14:33:42.823 98b Delete type=2 #18
+2020/07/23-14:33:42.823 98b Manual compaction at level-0 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 15066 : 1 .. (end); will stop at (end)
+2020/07/23-14:33:42.823 98b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 15066 : 1
+2020/07/23-14:33:42.824 98b Compacting 1@1 + 1@2 files
+2020/07/23-14:33:42.829 98b Generated table #20@1: 63 keys, 33985 bytes
+2020/07/23-14:33:42.829 98b Compacted 1@1 + 1@2 files => 33985 bytes
+2020/07/23-14:33:42.837 98b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/23-14:33:42.837 98b Delete type=2 #19
+2020/07/23-14:33:42.837 98b Delete type=2 #13
+2020/07/23-14:33:42.838 98b Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 15066 : 1 .. (end); will stop at (end)

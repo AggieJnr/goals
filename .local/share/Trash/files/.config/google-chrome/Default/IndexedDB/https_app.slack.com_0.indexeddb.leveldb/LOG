@@ -1,0 +1,5 @@
+2020/07/13-13:09:34.323 742f Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/13-16:13:25.036 8a6 Level-0 table #5: started
+2020/07/13-16:13:25.043 8a6 Level-0 table #5: 314729 bytes OK
+2020/07/13-16:13:25.054 8a6 Delete type=0 #3
+2020/07/13-16:13:25.055 8a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
