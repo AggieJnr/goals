@@ -9,7 +9,7 @@ contacts.google.com:HSTS	0	18453	1625909792362,1,0,2
 app.slack.com:HSTS	0	18471	1627481547857,1,1,2
 slack.com:HSTS	1	18471	1627481522047,1,1,2
 hangouts.google.com:HSTS	0	18453	1625930960812,1,1,2
-firefox.settings.services.mozilla.com:HSTS	6	18475	1627829637931,1,0,2
+firefox.settings.services.mozilla.com:HSTS	6	18475	1627835748488,1,0,2
 www.googletagmanager.com:HSTS	3	18471	1627481382509,1,1,2
 stats.g.doubleclick.net:HSTS	1	18471	1606831794318,1,1,2
 www.mozilla.org:HSTS	0	18464	1626907038418,1,0,2
@@ -50,7 +50,7 @@ chat-pa.clients6.google.com:HSTS	0	18453	1605281361063,1,1,2
 dpm.demdex.net:HSTS	0	18453	1625911263498,1,1,2
 c1.adform.net:HSTS	0	18453	1625909941472,1,1,2
 match.prod.bidr.io:HSTS	0	18453	1596965912601,1,1,2
-shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	6	18475	1627829558786,1,1,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	6	18475	1627833159035,1,1,2
 ogs.google.com:HSTS	0	18453	1625909782041,1,0,2
 contextual.media.net:HSTS	0	18453	1594978951311,1,0,2
 gem.gbc.criteo.com:HSTS	0	18453	1625909907632,1,0,2

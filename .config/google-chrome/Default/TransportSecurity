@@ -918,10 +918,10 @@
       "sts_observed": 1596289659.835345
    },
    "dFB/SqB3gDTReAUIQ5sHasElOGkcdqX76nNyNRcqws4=": {
-      "expiry": 1627830261.375106,
+      "expiry": 1627835667.633353,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1596294261.375108
+      "sts_observed": 1596299667.633357
    },
    "dJkUH4g/v6PPjJqdvxT9lotuem9ubyrt1TOu5lLJfL8=": {
       "expect_ct": {
