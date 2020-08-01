@@ -1,12 +1,6 @@
-2020/07/30-07:27:33.787 93a Reusing MANIFEST /home/moringa/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/07/30-07:27:33.788 93a Recovering log #3
-2020/07/30-07:27:33.789 93a Reusing old log /home/moringa/.config/google-chrome/Default/Session Storage/000003.log 
-2020/07/30-07:54:49.286 c9d Level-0 table #5: started
-2020/07/30-07:54:49.294 c9d Level-0 table #5: 17363 bytes OK
-2020/07/30-07:54:49.300 c9d Delete type=0 #3
-2020/07/30-10:16:08.805 c9d Level-0 table #7: started
-2020/07/30-10:16:08.815 c9d Level-0 table #7: 54864 bytes OK
-2020/07/30-10:16:08.820 c9d Delete type=0 #4
-2020/07/30-10:50:16.383 c9d Level-0 table #9: started
-2020/07/30-10:50:16.391 c9d Level-0 table #9: 19605 bytes OK
-2020/07/30-10:50:16.404 c9d Delete type=0 #6
+2020/07/31-13:03:16.126 d72 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/07/31-13:03:16.126 d72 Recovering log #8
+2020/07/31-13:03:16.126 d72 Reusing old log /home/moringa/.config/google-chrome/Default/Session Storage/000008.log 
+2020/08/01-16:03:54.570 1333 Level-0 table #12: started
+2020/08/01-16:03:54.575 1333 Level-0 table #12: 15907 bytes OK
+2020/08/01-16:03:54.580 1333 Delete type=0 #8

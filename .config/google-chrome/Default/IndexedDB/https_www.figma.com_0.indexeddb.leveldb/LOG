@@ -1,3 +1,8 @@
 2020/07/30-12:38:32.529 36c0 Reusing MANIFEST /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
 2020/07/30-12:38:32.530 36c0 Recovering log #10
 2020/07/30-12:38:32.530 36c0 Reusing old log /home/moringa/.config/google-chrome/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000010.log 
+2020/07/30-14:17:39.627 c22 Level-0 table #15: started
+2020/07/30-14:17:39.628 c22 Level-0 table #15: 0 bytes OK
+2020/07/30-14:17:39.633 c22 Delete type=0 #10
+2020/07/30-14:17:39.634 c22 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/30-14:17:39.634 c22 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

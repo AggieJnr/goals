@@ -1,0 +1,23 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringa/Desktop/revision
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/revision/index.html
+> git cat-file -s c8f6de6c5deb6f3cd62bd811ebf7f4008c2e7c2b
+> git check-ignore -v -z --stdin
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/revision/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/revision/index.html
+> git cat-file -s c8f6de6c5deb6f3cd62bd811ebf7f4008c2e7c2b

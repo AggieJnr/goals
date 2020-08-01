@@ -1,0 +1,136 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringa/Desktop/iBiz-Foods
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.js
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git show --textconv 882ce0081cb02a7ae63d6e8f97c6aee10bf6125e:index.html
+> git show --textconv b70dcf133076c77fd886b861890a0f3e43da2c43:index.html
+> git ls-tree -l 882ce0081cb02a7ae63d6e8f97c6aee10bf6125e -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git ls-tree -l b70dcf133076c77fd886b861890a0f3e43da2c43 -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv 882ce0081cb02a7ae63d6e8f97c6aee10bf6125e^:index.html
+> git ls-tree -l 882ce0081cb02a7ae63d6e8f97c6aee10bf6125e -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git ls-tree -l 882ce0081cb02a7ae63d6e8f97c6aee10bf6125e^ -- /home/moringa/Desktop/iBiz-Foods/index.html
+fatal: Not a valid object name 882ce0081cb02a7ae63d6e8f97c6aee10bf6125e^
+> git check-ignore -v -z --stdin
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.js
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.js
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git show --textconv :index.js
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.js
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.js
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/styles.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :index.html
+> git ls-files --stage -- /home/moringa/Desktop/iBiz-Foods/index.html
+> git cat-file -s d68fac249782093eb81db93f92c7855838229f23
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

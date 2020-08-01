@@ -9265,3 +9265,1069 @@
 [07/30/20, 14:14:01:542] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: G0178LP6DN2 timestamps: 86 
 [07/30/20, 14:14:34:633] info: [FOCUS-EVENT] Client window blurred 
 [07/30/20, 14:14:36:502] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:15:11:931] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 14:15:11:932] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connected to error 
+[07/30/20, 14:15:11:933] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 14:15:11:934] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 14:15:11:935] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 14:15:11:935] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 341 ms 
+[07/30/20, 14:15:12:278] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 14:15:12:284] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 14:15:12:287] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 14:15:12:288] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 14:15:12:289] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 14:15:12:289] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 14:15:12:290] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 14:15:13:359] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to connected 
+[07/30/20, 14:15:13:360] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connected state for up to Infinity ms 
+[07/30/20, 14:15:13:366] info: [SOCKET-MANAGER] (T077KKCG6) Connected to primary region 
+[07/30/20, 14:15:13:368] info: [EVENTLOG] (T077KKCG6) fr=true, lc=false, lt=1596107568.162600 
+[07/30/20, 14:15:21:691] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:15:21:721] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:15:21:750] info: [API-Q] (T077KKCG6) noversion-1596107721.748 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:15:21:750] info: [API-Q] (T077KKCG6) noversion-1596107721.748 Flannel users/info is ENQUEUED 
+[07/30/20, 14:15:21:752] info: [API-Q] (T077KKCG6) noversion-1596107721.748 Flannel users/info is ACTIVE 
+[07/30/20, 14:15:22:986] info: [API-Q] (T077KKCG6) noversion-1596107721.748 Flannel users/info is RESOLVED 
+[07/30/20, 14:15:31:694] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:15:31:704] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:16:13:373] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:17:08:675] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 14:17:08:678] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connected to error 
+[07/30/20, 14:17:08:679] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 14:17:08:686] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 14:17:08:687] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 14:17:08:687] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 231 ms 
+[07/30/20, 14:17:08:918] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 14:17:08:924] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 14:17:08:926] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 14:17:08:927] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 14:17:08:927] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 14:17:08:928] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 14:17:08:929] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 14:17:10:031] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to connected 
+[07/30/20, 14:17:10:031] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connected state for up to Infinity ms 
+[07/30/20, 14:17:10:036] info: [SOCKET-MANAGER] (T077KKCG6) Connected to primary region 
+[07/30/20, 14:17:10:042] info: [EVENTLOG] (T077KKCG6) fr=true, lc=false, lt=1596107568.162600 
+[07/30/20, 14:17:27:129] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 14:17:27:193] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 14:17:27:194] info: [CHECK-UNREADS] (T077KKCG6) Not marking G0178LP6DN2 because last_read >= latest && channel is read 
+[07/30/20, 14:17:33:852] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 14:18:10:667] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:18:39:696] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:18:39:703] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:22:01:933] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:22:01:940] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:23:40:699] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:23:40:702] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:28:41:667] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:28:41:668] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:31:42:282] info: Store: SET_SYSTEM_IDLE idle_presence 
+[07/30/20, 14:31:42:287] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:32:42:314] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:32:42:320] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:33:42:665] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:33:42:665] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:34:02:689] info: [RTM] (T077KKCG6) Processed 1 message event(s) in 21.01 ms 
+[07/30/20, 14:34:10:726] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:34:22:363] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:34:22:371] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:35:42:415] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:35:42:419] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:36:12:429] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:36:12:435] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:36:22:435] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:36:22:439] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:36:54:674] info: [API-Q] (T077KKCG6) noversion-1596109014.671 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:36:54:676] info: [API-Q] (T077KKCG6) noversion-1596109014.671 Flannel users/info is ENQUEUED 
+[07/30/20, 14:36:54:682] info: [API-Q] (T077KKCG6) noversion-1596109014.671 Flannel users/info is ACTIVE 
+[07/30/20, 14:36:56:587] info: [API-Q] (T077KKCG6) noversion-1596109014.671 Flannel users/info is RESOLVED 
+[07/30/20, 14:37:12:474] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:37:12:478] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:37:34:695] info: [OPPORTUNISTIC_RELOADS] User has been blurred for 1200000 ms, evaluating whether or not we should reload opportunistically 
+[07/30/20, 14:38:42:670] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:38:42:671] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:39:32:559] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:39:32:564] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:39:52:570] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:39:52:576] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:41:39:236] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 14:41:39:384] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 14:41:39:384] info: [CHECK-UNREADS] (T077KKCG6) Not marking G0178LP6DN2 because last_read >= latest && channel is read 
+[07/30/20, 14:41:40:209] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 14:41:40:219] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 14:41:41:497] info: [API-Q] (T077KKCG6) noversion-1596109301.496 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:41:41:498] info: [API-Q] (T077KKCG6) noversion-1596109301.496 Flannel users/info is ENQUEUED 
+[07/30/20, 14:41:41:500] info: [API-Q] (T077KKCG6) noversion-1596109301.496 Flannel users/info is ACTIVE 
+[07/30/20, 14:41:42:408] info: [API-Q] (T077KKCG6) noversion-1596109301.496 Flannel users/info is RESOLVED 
+[07/30/20, 14:41:42:643] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:41:42:647] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:42:22:667] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:42:22:674] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:42:23:823] info: [RTM] (T077KKCG6) Processed 1 user_typing event(s) in 25.77 ms 
+[07/30/20, 14:43:42:674] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:43:42:675] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:45:12:793] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:45:12:798] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:45:32:803] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:45:32:809] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:45:37:766] info: [RTM] (T077KKCG6) Processed 1 file_change event(s) in 27.4 ms 
+[07/30/20, 14:46:12:826] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:46:12:830] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:46:13:761] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 14:46:52:850] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:46:52:855] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:48:04:994] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 14:48:05:116] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 14:48:05:116] info: [CHECK-UNREADS] (T077KKCG6) Not marking G0178LP6DN2 because last_read >= latest && channel is read 
+[07/30/20, 14:48:05:156] info: [PERSIST] (T077KKCG6) Successfully persisted state 
+[07/30/20, 14:48:05:881] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 14:48:05:890] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 14:48:06:044] info: [API-Q] (T077KKCG6) noversion-1596109686.039 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:48:06:045] info: [API-Q] (T077KKCG6) noversion-1596109686.039 Flannel users/info is ENQUEUED 
+[07/30/20, 14:48:06:046] info: [API-Q] (T077KKCG6) noversion-1596109686.039 Flannel users/info is ACTIVE 
+[07/30/20, 14:48:07:898] info: [API-Q] (T077KKCG6) noversion-1596109686.039 Flannel users/info is RESOLVED 
+[07/30/20, 14:48:08:237] info: [ACTION:CHANNEL-SIDEBAR] Selected D017AJ7DPEG 
+[07/30/20, 14:48:08:237] info: [CHANNEL-SIDEBAR] (T077KKCG6) onItemSelect D017AJ7DPEG 
+[07/30/20, 14:48:08:251] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 14:48:08:251] info: [SWITCH-TO-CHANNEL] (T077KKCG6) Switching to D017AJ7DPEG at end 
+[07/30/20, 14:48:08:306] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: D017AJ7DPEG timestamps: 30 
+[07/30/20, 14:48:08:442] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 14:48:08:848] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 14:48:08:849] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017AJ7DPEG because last_read >= latest && channel is read 
+[07/30/20, 14:48:10:671] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 14:48:12:902] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:48:12:911] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:48:18:494] info: [API-Q] (T077KKCG6) noversion-1596109698.492 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:48:18:494] info: [API-Q] (T077KKCG6) noversion-1596109698.492 Flannel users/info is ENQUEUED 
+[07/30/20, 14:48:18:495] info: [API-Q] (T077KKCG6) noversion-1596109698.492 Flannel users/info is ACTIVE 
+[07/30/20, 14:48:18:805] info: [API-Q] (T077KKCG6) noversion-1596109698.492 Flannel users/info is RESOLVED 
+[07/30/20, 14:48:42:706] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:48:42:713] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:48:42:913] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:48:42:919] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:48:42:942] info: [API-Q] (T077KKCG6) noversion-1596109722.941 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 14:48:42:943] info: [API-Q] (T077KKCG6) noversion-1596109722.941 Flannel users/info is ENQUEUED 
+[07/30/20, 14:48:42:945] info: [API-Q] (T077KKCG6) noversion-1596109722.941 Flannel users/info is ACTIVE 
+[07/30/20, 14:48:43:239] info: [API-Q] (T077KKCG6) noversion-1596109722.941 Flannel users/info is RESOLVED 
+[07/30/20, 14:49:12:928] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: true -> false 
+[07/30/20, 14:49:12:934] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:49:12:936] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:49:30:093] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 14:49:31:174] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 14:49:31:181] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 14:51:33:027] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:51:33:036] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:53:43:698] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:53:43:701] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:57:03:267] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:57:03:305] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:57:23:282] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:57:23:290] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:58:23:331] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 14:58:23:338] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 14:58:44:664] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 14:58:44:665] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 14:59:13:358] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 14:59:13:363] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:03:44:671] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:03:44:671] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:04:11:718] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 15:08:45:666] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:08:45:667] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:08:53:774] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:08:53:781] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:09:23:800] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:09:23:807] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:09:30:698] info: [OPPORTUNISTIC_RELOADS] User has been blurred for 1200000 ms, evaluating whether or not we should reload opportunistically 
+[07/30/20, 15:09:53:821] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:09:53:827] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:10:33:851] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:10:33:856] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:10:43:857] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:10:43:865] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:11:03:873] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:11:03:877] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:13:16:106] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 15:13:16:108] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connected to error 
+[07/30/20, 15:13:16:110] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 15:13:16:112] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 15:13:16:112] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 15:13:16:113] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 265 ms 
+[07/30/20, 15:13:16:668] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 15:13:16:671] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 15:13:16:672] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 15:13:16:673] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 15:13:16:673] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 15:13:16:674] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 15:13:16:674] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 15:13:26:685] error: WebSocket connection to 'wss://wss-primary.slack.com/?dp=1&flannel=3&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gMr_4YB_gMCNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-Arj_ggH-Aoh3c3M6Ly9jZXJiZXJ1cy1kM2FqLmxiLnNsYWNrLW1zZ3MuY29tL3dlYnNvY2tldC9ycTJSYjVzaGQwRE15QXRlVWpmQy1aNTVWVGNlV2NXYmc3VXBvYUExUF9OY0FZdGFHci12NFpINTRXYVZwMThIYWJoNFBhenRacUhzaFktZFROT0paa0NQZXliREl2RHZ5UU5XRHBodldJZG93YUtrU1E4LXNTNnlGdGJ4bjMzNTN3NFpKX09yVGFjaFBhSmZQcEs1bUZDOHk1RHJhY09Hal9DZ1RHT2xmN3VRWGsydzhXRGh...lIRWgyOFh5ZDJHUXlRZ2M2cnl2OWs2V1ZnZUl6Y3JRUWVDeGZmSi1heWlkV1NTSDE0bUJ6bEExUDlfaHZrb1NQWVk1eHRMaUhrQVBodWZ1Z0pXRl9pMTRlZ19ya1VCWlJaUlBMOU1raG0zSUZIZDlESDE2NHRBekc2VTh0UHA4SURjcVR0WndkR3cxNGZNcUhMYXIxM1RlVjUyVFBXRlpnPT0BCVQwNzdLS0NHNgILVTAxNlVUMkhNNUsBDwEAAAAO1rSvtAe-ueX-XAABIL0WcVi3qSWCcNxJlMvsp1qwB4Oglp2ZxJDgG7SdD4X4AA&no_query_on_subscribe=1&slack_client=desktop&sync_desync=1&token=[REDACTED]&lazy_channels=1' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED 
+[07/30/20, 15:13:26:719] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 15:13:26:720] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to error 
+[07/30/20, 15:13:26:721] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 15:13:26:721] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 15:13:26:722] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 15:13:26:722] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 827 ms 
+[07/30/20, 15:13:27:668] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 15:13:27:673] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 15:13:27:674] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 15:13:27:675] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 15:13:27:676] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 15:13:27:676] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 15:13:27:676] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 15:13:37:688] error: WebSocket connection to 'wss://wss-primary.slack.com/?dp=1&flannel=3&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gMr_4YB_gMCNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-Arj_ggH-Aoh3c3M6Ly9jZXJiZXJ1cy1kM2FqLmxiLnNsYWNrLW1zZ3MuY29tL3dlYnNvY2tldC9ycTJSYjVzaGQwRE15QXRlVWpmQy1aNTVWVGNlV2NXYmc3VXBvYUExUF9OY0FZdGFHci12NFpINTRXYVZwMThIYWJoNFBhenRacUhzaFktZFROT0paa0NQZXliREl2RHZ5UU5XRHBodldJZG93YUtrU1E4LXNTNnlGdGJ4bjMzNTN3NFpKX09yVGFjaFBhSmZQcEs1bUZDOHk1RHJhY09Hal9DZ1RHT2xmN3VRWGsydzhXRGh...lIRWgyOFh5ZDJHUXlRZ2M2cnl2OWs2V1ZnZUl6Y3JRUWVDeGZmSi1heWlkV1NTSDE0bUJ6bEExUDlfaHZrb1NQWVk1eHRMaUhrQVBodWZ1Z0pXRl9pMTRlZ19ya1VCWlJaUlBMOU1raG0zSUZIZDlESDE2NHRBekc2VTh0UHA4SURjcVR0WndkR3cxNGZNcUhMYXIxM1RlVjUyVFBXRlpnPT0BCVQwNzdLS0NHNgILVTAxNlVUMkhNNUsBDwEAAAAO1rSvtAe-ueX-XAABIL0WcVi3qSWCcNxJlMvsp1qwB4Oglp2ZxJDgG7SdD4X4AA&no_query_on_subscribe=1&slack_client=desktop&sync_desync=1&token=[REDACTED]&lazy_channels=1' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED 
+[07/30/20, 15:13:37:719] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 15:13:37:721] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to error 
+[07/30/20, 15:13:37:721] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 15:13:37:722] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 15:13:37:723] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 15:13:37:723] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 1031 ms 
+[07/30/20, 15:13:39:667] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 15:13:39:668] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 15:13:39:669] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 15:13:39:669] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 15:13:39:670] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 15:13:39:670] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 15:13:39:671] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 15:13:46:666] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:13:46:667] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:13:49:680] error: WebSocket connection to 'wss://wss-primary.slack.com/?dp=1&flannel=3&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gMr_4YB_gMCNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-Arj_ggH-Aoh3c3M6Ly9jZXJiZXJ1cy1kM2FqLmxiLnNsYWNrLW1zZ3MuY29tL3dlYnNvY2tldC9ycTJSYjVzaGQwRE15QXRlVWpmQy1aNTVWVGNlV2NXYmc3VXBvYUExUF9OY0FZdGFHci12NFpINTRXYVZwMThIYWJoNFBhenRacUhzaFktZFROT0paa0NQZXliREl2RHZ5UU5XRHBodldJZG93YUtrU1E4LXNTNnlGdGJ4bjMzNTN3NFpKX09yVGFjaFBhSmZQcEs1bUZDOHk1RHJhY09Hal9DZ1RHT2xmN3VRWGsydzhXRGh...lIRWgyOFh5ZDJHUXlRZ2M2cnl2OWs2V1ZnZUl6Y3JRUWVDeGZmSi1heWlkV1NTSDE0bUJ6bEExUDlfaHZrb1NQWVk1eHRMaUhrQVBodWZ1Z0pXRl9pMTRlZ19ya1VCWlJaUlBMOU1raG0zSUZIZDlESDE2NHRBekc2VTh0UHA4SURjcVR0WndkR3cxNGZNcUhMYXIxM1RlVjUyVFBXRlpnPT0BCVQwNzdLS0NHNgILVTAxNlVUMkhNNUsBDwEAAAAO1rSvtAe-ueX-XAABIL0WcVi3qSWCcNxJlMvsp1qwB4Oglp2ZxJDgG7SdD4X4AA&no_query_on_subscribe=1&slack_client=desktop&sync_desync=1&token=[REDACTED]&lazy_channels=1' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED 
+[07/30/20, 15:13:49:709] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 15:13:49:711] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to error 
+[07/30/20, 15:13:49:713] info: [SOCKET-MANAGER] (T077KKCG6) Failed to connect 3 times; going into failover mode until we connect 
+[07/30/20, 15:13:49:713] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 15:13:49:713] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 15:13:49:714] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 15:13:49:714] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 2369 ms 
+[07/30/20, 15:13:52:670] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 15:13:52:671] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 15:13:52:671] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 15:13:52:672] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 15:13:52:673] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to backup region 
+[07/30/20, 15:13:52:674] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 15:13:52:674] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 15:14:02:685] error: WebSocket connection to 'wss://wss-backup.slack.com/?dp=1&flannel=3&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gMr_4YB_gMCNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-Arj_ggH-Aoh3c3M6Ly9jZXJiZXJ1cy1kM2FqLmxiLnNsYWNrLW1zZ3MuY29tL3dlYnNvY2tldC9ycTJSYjVzaGQwRE15QXRlVWpmQy1aNTVWVGNlV2NXYmc3VXBvYUExUF9OY0FZdGFHci12NFpINTRXYVZwMThIYWJoNFBhenRacUhzaFktZFROT0paa0NQZXliREl2RHZ5UU5XRHBodldJZG93YUtrU1E4LXNTNnlGdGJ4bjMzNTN3NFpKX09yVGFjaFBhSmZQcEs1bUZDOHk1RHJhY09Hal9DZ1RHT2xmN3VRWGsydzhXRGhu...WVDeGZmSi1heWlkV1NTSDE0bUJ6bEExUDlfaHZrb1NQWVk1eHRMaUhrQVBodWZ1Z0pXRl9pMTRlZ19ya1VCWlJaUlBMOU1raG0zSUZIZDlESDE2NHRBekc2VTh0UHA4SURjcVR0WndkR3cxNGZNcUhMYXIxM1RlVjUyVFBXRlpnPT0BCVQwNzdLS0NHNgILVTAxNlVUMkhNNUsBDwEAAAAO1rSvtAe-ueX-XAABIL0WcVi3qSWCcNxJlMvsp1qwB4Oglp2ZxJDgG7SdD4X4AA&no_query_on_subscribe=1&slack_client=desktop&sync_desync=1&token=[REDACTED]&lazy_channels=1&is_backup=1&last_primary_region=ap-south-1' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED 
+[07/30/20, 15:14:02:712] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 15:14:02:715] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to error 
+[07/30/20, 15:14:02:715] info: [SOCKET-MANAGER] (T077KKCG6) will dispatch troubleConnectingSig 
+[07/30/20, 15:14:02:716] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 15:14:02:717] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 15:14:02:717] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 15:14:02:718] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 4068 ms 
+[07/30/20, 15:14:07:671] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 15:14:07:672] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 15:14:07:672] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 15:14:07:673] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 15:14:07:674] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to primary region 
+[07/30/20, 15:14:07:675] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 15:14:07:675] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 15:14:17:712] error: WebSocket connection to 'wss://wss-primary.slack.com/?dp=1&flannel=3&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gMr_4YB_gMCNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-Arj_ggH-Aoh3c3M6Ly9jZXJiZXJ1cy1kM2FqLmxiLnNsYWNrLW1zZ3MuY29tL3dlYnNvY2tldC9ycTJSYjVzaGQwRE15QXRlVWpmQy1aNTVWVGNlV2NXYmc3VXBvYUExUF9OY0FZdGFHci12NFpINTRXYVZwMThIYWJoNFBhenRacUhzaFktZFROT0paa0NQZXliREl2RHZ5UU5XRHBodldJZG93YUtrU1E4LXNTNnlGdGJ4bjMzNTN3NFpKX09yVGFjaFBhSmZQcEs1bUZDOHk1RHJhY09Hal9DZ1RHT2xmN3VRWGsydzhXRGh...lIRWgyOFh5ZDJHUXlRZ2M2cnl2OWs2V1ZnZUl6Y3JRUWVDeGZmSi1heWlkV1NTSDE0bUJ6bEExUDlfaHZrb1NQWVk1eHRMaUhrQVBodWZ1Z0pXRl9pMTRlZ19ya1VCWlJaUlBMOU1raG0zSUZIZDlESDE2NHRBekc2VTh0UHA4SURjcVR0WndkR3cxNGZNcUhMYXIxM1RlVjUyVFBXRlpnPT0BCVQwNzdLS0NHNgILVTAxNlVUMkhNNUsBDwEAAAAO1rSvtAe-ueX-XAABIL0WcVi3qSWCcNxJlMvsp1qwB4Oglp2ZxJDgG7SdD4X4AA&no_query_on_subscribe=1&slack_client=desktop&sync_desync=1&token=[REDACTED]&lazy_channels=1' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED 
+[07/30/20, 15:14:17:742] warn: SOCKET-MANAGER (T077KKCG6) Socket was closed because #1006: generic error 
+[07/30/20, 15:14:17:743] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to error 
+[07/30/20, 15:14:17:744] info: [SOCKET-MANAGER] (T077KKCG6) will stay in error state for up to 10000 ms 
+[07/30/20, 15:14:17:744] info: [SOCKET-MANAGER] (T077KKCG6) Changing from error to wait_for_rate_limit 
+[07/30/20, 15:14:17:744] info: [SOCKET-MANAGER] (T077KKCG6) will stay in wait_for_rate_limit state for up to 120000 ms 
+[07/30/20, 15:14:17:745] info: [SOCKET-MANAGER] (T077KKCG6) backing off: will wait for 5552 ms 
+[07/30/20, 15:14:23:670] info: [SOCKET-MANAGER] (T077KKCG6) Changing from wait_for_rate_limit to connect 
+[07/30/20, 15:14:23:671] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connect state for up to 10000 ms 
+[07/30/20, 15:14:23:672] info: [SOCKET-MANAGER] (T077KKCG6) Changing from connect to checking_fast_reconnect 
+[07/30/20, 15:14:23:673] info: [SOCKET-MANAGER] (T077KKCG6) will stay in checking_fast_reconnect state for up to 60000 ms 
+[07/30/20, 15:14:23:675] info: [SOCKET-MANAGER] (T077KKCG6) Attempting to connect to backup region 
+[07/30/20, 15:14:23:676] info: [SOCKET-MANAGER] (T077KKCG6) Changing from checking_fast_reconnect to fast_reconnecting 
+[07/30/20, 15:14:23:677] info: [SOCKET-MANAGER] (T077KKCG6) will stay in fast_reconnecting state for up to 20000 ms 
+[07/30/20, 15:14:24:001] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:14:24:005] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:14:34:739] info: [SOCKET-MANAGER] (T077KKCG6) Changing from fast_reconnecting to connected 
+[07/30/20, 15:14:34:739] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connected state for up to Infinity ms 
+[07/30/20, 15:14:34:741] info: [SOCKET-MANAGER] (T077KKCG6) Connected to backup region 
+[07/30/20, 15:14:34:748] info: [EVENTLOG] (T077KKCG6) fr=true, lc=false, lt=1596109537.163500 
+[07/30/20, 15:14:54:017] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:14:54:021] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:15:24:036] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:15:24:044] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:15:35:695] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 15:16:14:063] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:16:14:070] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:17:31:047] info: [RTM] (T077KKCG6) Processed 1 user_typing event(s) in 27.76 ms 
+[07/30/20, 15:17:32:107] info: [RTM] (T077KKCG6) Processed 1 message event(s) in 21.195 ms 
+[07/30/20, 15:17:32:111] info: [COUNTS] (T077KKCG6) Updated unread_cnt for G017E5SRV7B: 1 
+[07/30/20, 15:18:44:706] info: [MIN-VERSION] Checking to see if we should reload 
+[07/30/20, 15:18:44:713] info: [API-Q] (T077KKCG6) 51581052-1596111524.709 client.shouldReload called with reason: no_reason_provided 
+[07/30/20, 15:18:44:713] info: [API-Q] (T077KKCG6) 51581052-1596111524.709 client.shouldReload is ENQUEUED 
+[07/30/20, 15:18:44:716] info: [API-Q] (T077KKCG6) 51581052-1596111524.709 client.shouldReload is ACTIVE 
+[07/30/20, 15:18:45:177] info: [API-Q] (T077KKCG6) 51581052-1596111524.709 client.shouldReload is RESOLVED 
+[07/30/20, 15:18:45:664] info: [MIN-VERSION] No need to reload 
+[07/30/20, 15:18:47:665] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:18:47:666] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:21:03:546] info: [COUNTS] (T077KKCG6) Updated unread_cnt for G017E5SRV7B: 2 
+[07/30/20, 15:21:14:261] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:21:14:266] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:21:44:287] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:21:44:294] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:22:14:312] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:22:14:312] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:22:34:324] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:22:34:330] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:23:08:391] info: [COUNTS] (T077KKCG6) Updated unread_cnt for G017E5SRV7B: 3 
+[07/30/20, 15:23:47:667] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:23:47:671] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:26:36:004] info: [COUNTS] (T077KKCG6) Updated unread_cnt for G017E5SRV7B: 4 
+[07/30/20, 15:27:04:535] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:27:04:542] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:27:34:565] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:27:34:572] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:28:48:666] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:28:48:667] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:31:36:665] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 15:33:49:666] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:33:49:666] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:34:04:855] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:34:04:863] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:38:47:674] info: [API-Q] (T077KKCG6) noversion-1596112727.671 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 15:38:47:675] info: [API-Q] (T077KKCG6) noversion-1596112727.671 Flannel users/info is ENQUEUED 
+[07/30/20, 15:38:47:677] info: [API-Q] (T077KKCG6) noversion-1596112727.671 Flannel users/info is ACTIVE 
+[07/30/20, 15:38:50:665] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:38:50:666] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:38:52:774] info: [API-Q] (T077KKCG6) noversion-1596112727.671 Flannel users/info is RESOLVED 
+[07/30/20, 15:40:55:152] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:40:55:157] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:41:15:169] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:41:15:174] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:41:55:215] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:41:55:218] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:43:25:276] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:43:25:281] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:43:50:672] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:43:50:673] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:44:35:333] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:44:35:340] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:46:36:665] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 15:48:19:672] info: [API-Q] (T077KKCG6) noversion-1596113299.665 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 15:48:19:672] info: [API-Q] (T077KKCG6) noversion-1596113299.665 Flannel users/info is ENQUEUED 
+[07/30/20, 15:48:19:673] info: [API-Q] (T077KKCG6) noversion-1596113299.665 Flannel users/info is ACTIVE 
+[07/30/20, 15:48:20:616] info: [API-Q] (T077KKCG6) noversion-1596113299.665 Flannel users/info is RESOLVED 
+[07/30/20, 15:48:51:666] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:48:51:667] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:52:55:743] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:52:55:749] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:53:25:766] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:53:25:773] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:53:52:667] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:53:52:669] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:55:05:845] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:55:05:852] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:55:35:875] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:55:35:879] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:58:36:020] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:58:36:023] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:58:53:667] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 15:58:53:667] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 15:59:16:047] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 15:59:16:051] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 15:59:36:062] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 15:59:36:066] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:01:36:667] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 16:03:54:667] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:03:54:669] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:08:54:669] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:08:54:672] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:09:46:520] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:09:46:527] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:09:56:526] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:09:56:529] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:11:06:583] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:11:06:587] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:11:26:600] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:11:26:607] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:13:55:666] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:13:55:668] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:16:36:666] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 16:18:56:667] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:18:56:668] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:21:42:211] info: Store: FOREGROUND_APP  
+[07/30/20, 16:21:42:250] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 16:21:42:527] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 16:21:42:528] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017AJ7DPEG because last_read >= latest && channel is read 
+[07/30/20, 16:21:42:540] info: [API-Q] (T077KKCG6) noversion-1596115302.537 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 16:21:42:543] info: [API-Q] (T077KKCG6) noversion-1596115302.537 Flannel users/info is ENQUEUED 
+[07/30/20, 16:21:42:545] info: [API-Q] (T077KKCG6) noversion-1596115302.537 Flannel users/info is ACTIVE 
+[07/30/20, 16:21:42:588] info: [PERSIST] (T077KKCG6) Successfully persisted state 
+[07/30/20, 16:21:43:290] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 16:21:43:296] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 16:21:44:295] info: [API-Q] (T077KKCG6) noversion-1596115302.537 Flannel users/info is RESOLVED 
+[07/30/20, 16:21:44:318] info: [ACTION:CHANNEL-SIDEBAR] Selected D017YR103ED 
+[07/30/20, 16:21:44:319] info: [CHANNEL-SIDEBAR] (T077KKCG6) onItemSelect D017YR103ED 
+[07/30/20, 16:21:44:327] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 16:21:44:327] info: [SWITCH-TO-CHANNEL] (T077KKCG6) Switching to D017YR103ED at end 
+[07/30/20, 16:21:44:379] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: D017YR103ED timestamps: 0 
+[07/30/20, 16:21:44:380] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017YR103ED isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 16:21:44:380] info: [HISTORY-FETCH] (T077KKCG6) Fetching history for message pane: D017YR103ED oldest: null latest: null 
+[07/30/20, 16:21:44:383] info: [API-Q] (T077KKCG6) 51581052-1596115304.381 conversations.history called with reason: message-pane/requestHistory 
+[07/30/20, 16:21:44:384] info: [API-Q] (T077KKCG6) 51581052-1596115304.381 conversations.history is ENQUEUED 
+[07/30/20, 16:21:44:384] info: [API-Q] (T077KKCG6) 51581052-1596115304.381 conversations.history is ACTIVE 
+[07/30/20, 16:21:44:416] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017YR103ED isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 16:21:44:416] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017YR103ED isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 16:21:44:464] info: [API-Q] (T077KKCG6) noversion-1596115304.461 Flannel users/counts called with reason: flannel-call:users/counts 
+[07/30/20, 16:21:44:464] info: [API-Q] (T077KKCG6) noversion-1596115304.461 Flannel users/counts is ENQUEUED 
+[07/30/20, 16:21:44:469] info: [API-Q] (T077KKCG6) noversion-1596115304.461 Flannel users/counts is ACTIVE 
+[07/30/20, 16:21:44:469] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017YR103ED isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 16:21:44:483] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[07/30/20, 16:21:45:111] info: [API-Q] (T077KKCG6) 51581052-1596115304.381 conversations.history is RESOLVED 
+[07/30/20, 16:21:45:123] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) setting count for channel D017YR103ED to 0, and marking channel as stale. 
+[07/30/20, 16:21:45:129] info: [PINS] (T077KKCG6) Pins count updated for channel D017YR103ED: 0 
+[07/30/20, 16:21:45:132] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because (7) timestamps added 
+[07/30/20, 16:21:45:133] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017YR103ED after a new message 
+[07/30/20, 16:21:45:133] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 16:21:45:150] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 7 
+[07/30/20, 16:21:45:261] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 16:21:45:300] info: [API-Q] (T077KKCG6) noversion-1596115304.461 Flannel users/counts is RESOLVED 
+[07/30/20, 16:21:45:641] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 16:21:45:641] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 16:21:47:788] info: Store: OPEN_CONTEXT_MENU {
+  "id": 1,
+  "params": "[REDACTED]"
+} 
+[07/30/20, 16:21:50:722] info: [DRAFTS] (T077KKCG6) Storing draft changes locally - D017YR103ED 
+[07/30/20, 16:21:52:968] info: [ACTION:MESSAGE] (T077KKCG6) Sent a message to D017YR103ED via HTTP, clientMsgId: 3873f40f-1cbf-4e98-b36b-4c999d6792b0 
+[07/30/20, 16:21:52:969] info: [ACTION:MESSAGE-Q] (T077KKCG6) Enqueueing message with clientMsgId 3873f40f-1cbf-4e98-b36b-4c999d6792b0, queue has 1 messages 
+[07/30/20, 16:21:52:969] info: [ACTION:MESSAGE-Q] (T077KKCG6) Sending message with clientMsgId 3873f40f-1cbf-4e98-b36b-4c999d6792b0 
+[07/30/20, 16:21:52:970] info: [API-Q] (T077KKCG6) 51581052-1596115312.969 chat.postMessage called with reason: webapp_message_send 
+[07/30/20, 16:21:52:971] info: [API-Q] (T077KKCG6) 51581052-1596115312.969 chat.postMessage is ENQUEUED 
+[07/30/20, 16:21:52:972] info: [API-Q] (T077KKCG6) 51581052-1596115312.969 chat.postMessage is ACTIVE 
+[07/30/20, 16:21:52:972] info: [ACTION:MESSAGE-Q] (T077KKCG6) Shifting queue, now has 0 messages 
+[07/30/20, 16:21:52:980] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because (1) timestamps added 
+[07/30/20, 16:21:52:982] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017YR103ED after a new message 
+[07/30/20, 16:21:52:983] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 16:21:53:321] info: [API-Q] (T077KKCG6) 51581052-1596115312.969 chat.postMessage is RESOLVED 
+[07/30/20, 16:21:53:323] info: [ACTION:MESSAGE-Q] (T077KKCG6) Resolving active request with clientMsgId 3873f40f-1cbf-4e98-b36b-4c999d6792b0 
+[07/30/20, 16:21:53:440] info: [ACTION:MESSAGE] (T077KKCG6) Resolved a message with clientMsgId 3873f40f-1cbf-4e98-b36b-4c999d6792b0 in D017YR103ED with ts 1596115313.000200 
+[07/30/20, 16:21:53:447] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because (1) timestamps added 
+[07/30/20, 16:21:53:448] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because message removed 
+[07/30/20, 16:21:53:502] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017YR103ED after a new message 
+[07/30/20, 16:21:53:503] info: [CHECK-UNREADS] (T077KKCG6) Marking D017YR103ED because unread line is visible 
+[07/30/20, 16:21:53:503] info: [SET-LAST-READ] (T077KKCG6) markLastRead D017YR103ED:1596115313.000200, immediate: undefined 
+[07/30/20, 16:21:53:506] info: [SET-LAST-READ] (T077KKCG6) delaying D017YR103ED mark by 3282.070675375284ms 
+[07/30/20, 16:21:53:508] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because last_read changed to 1596115313.000200 
+[07/30/20, 16:21:56:815] info: [SET-LAST-READ] (T077KKCG6) delay resolved, marking D017YR103ED with API 
+[07/30/20, 16:21:56:821] info: [API-Q] (T077KKCG6) 51581052-1596115316.820 conversations.mark called with reason: viewed 
+[07/30/20, 16:21:56:821] info: [API-Q] (T077KKCG6) 51581052-1596115316.820 conversations.mark is ENQUEUED 
+[07/30/20, 16:21:56:821] info: [API-Q] (T077KKCG6) 51581052-1596115316.820 conversations.mark is ACTIVE 
+[07/30/20, 16:21:57:109] info: [API-Q] (T077KKCG6) 51581052-1596115316.820 conversations.mark is RESOLVED 
+[07/30/20, 16:21:59:601] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 16:22:04:075] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 16:22:04:154] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 16:22:04:154] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 16:22:06:188] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 16:22:37:082] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:22:37:089] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:23:27:117] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:23:27:125] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:23:56:669] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:23:56:670] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:23:57:138] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:23:57:143] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:25:27:222] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:25:27:227] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:26:07:255] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:26:07:260] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:28:56:675] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:28:56:675] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:28:57:411] info: [API-Q] (T077KKCG6) noversion-1596115737.410 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 16:28:57:411] info: [API-Q] (T077KKCG6) noversion-1596115737.410 Flannel users/info is ENQUEUED 
+[07/30/20, 16:28:57:412] info: [API-Q] (T077KKCG6) noversion-1596115737.410 Flannel users/info is ACTIVE 
+[07/30/20, 16:28:58:287] info: [API-Q] (T077KKCG6) noversion-1596115737.410 Flannel users/info is RESOLVED 
+[07/30/20, 16:29:17:406] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:29:17:412] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:30:27:469] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:30:27:478] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:30:35:697] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 16:33:56:677] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:33:56:678] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:36:57:757] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:36:57:763] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:37:17:774] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:37:17:780] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:38:56:679] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:38:56:680] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:40:55:359] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 16:40:55:424] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 16:40:55:425] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 16:40:57:930] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:40:57:937] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:41:24:332] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 16:41:47:964] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:41:47:968] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:41:48:008] info: [API-Q] (T077KKCG6) noversion-1596116508.004 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 16:41:48:010] info: [API-Q] (T077KKCG6) noversion-1596116508.004 Flannel users/info is ENQUEUED 
+[07/30/20, 16:41:48:011] info: [API-Q] (T077KKCG6) noversion-1596116508.004 Flannel users/info is ACTIVE 
+[07/30/20, 16:41:50:001] info: [API-Q] (T077KKCG6) noversion-1596116508.004 Flannel users/info is RESOLVED 
+[07/30/20, 16:43:56:682] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:43:56:684] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:45:35:698] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 16:48:56:688] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:48:56:688] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:50:08:352] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 16:50:08:358] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:51:08:406] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 16:51:08:411] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 16:53:56:693] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:53:56:693] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 16:57:10:122] info: [MIN-VERSION] Checking to see if we should reload 
+[07/30/20, 16:57:10:124] info: [API-Q] (T077KKCG6) 51581052-1596117430.123 client.shouldReload called with reason: no_reason_provided 
+[07/30/20, 16:57:10:125] info: [API-Q] (T077KKCG6) 51581052-1596117430.123 client.shouldReload is ENQUEUED 
+[07/30/20, 16:57:10:126] info: [API-Q] (T077KKCG6) 51581052-1596117430.123 client.shouldReload is ACTIVE 
+[07/30/20, 16:57:10:775] info: [API-Q] (T077KKCG6) 51581052-1596117430.123 client.shouldReload is RESOLVED 
+[07/30/20, 16:57:10:777] info: [MIN-VERSION] No need to reload 
+[07/30/20, 16:58:56:696] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 16:58:56:697] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:00:35:698] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 17:00:48:836] info: Store: SET_SYSTEM_IDLE idle_presence 
+[07/30/20, 17:00:48:847] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 17:01:24:374] info: [OPPORTUNISTIC_RELOADS] User has been blurred for 1200000 ms, evaluating whether or not we should reload opportunistically 
+[07/30/20, 17:01:24:374] info: [OPPORTUNISTIC_RELOADS] Client is still visible to the user even though it is not focused, will avoid updating 
+[07/30/20, 17:03:56:698] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 17:03:56:699] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:08:56:703] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 17:08:56:704] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:11:00:713] info: [API-Q] (T077KKCG6) noversion-1596118260.711 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:11:00:713] info: [API-Q] (T077KKCG6) noversion-1596118260.711 Flannel users/info is ENQUEUED 
+[07/30/20, 17:11:00:715] info: [API-Q] (T077KKCG6) noversion-1596118260.711 Flannel users/info is ACTIVE 
+[07/30/20, 17:11:02:439] info: [API-Q] (T077KKCG6) noversion-1596118260.711 Flannel users/info is RESOLVED 
+[07/30/20, 17:13:56:709] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 17:13:56:710] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:15:35:701] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 17:17:00:740] info: [API-Q] (T077KKCG6) noversion-1596118620.737 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:17:00:740] info: [API-Q] (T077KKCG6) noversion-1596118620.737 Flannel users/info is ENQUEUED 
+[07/30/20, 17:17:00:743] info: [API-Q] (T077KKCG6) noversion-1596118620.737 Flannel users/info is ACTIVE 
+[07/30/20, 17:17:01:829] info: [API-Q] (T077KKCG6) noversion-1596118620.737 Flannel users/info is RESOLVED 
+[07/30/20, 17:18:56:711] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 17:18:56:712] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:21:24:378] info: [OPPORTUNISTIC_RELOADS] User has been blurred for 1200000 ms, evaluating whether or not we should reload opportunistically 
+[07/30/20, 17:21:24:379] info: [OPPORTUNISTIC_RELOADS] Client is still visible to the user even though it is not focused, will avoid updating 
+[07/30/20, 17:22:00:835] info: [PERSIST] (T077KKCG6) Successfully persisted state 
+[07/30/20, 17:23:00:805] info: [API-Q] (T077KKCG6) noversion-1596118980.802 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:23:00:806] info: [API-Q] (T077KKCG6) noversion-1596118980.802 Flannel users/info is ENQUEUED 
+[07/30/20, 17:23:00:807] info: [API-Q] (T077KKCG6) noversion-1596118980.802 Flannel users/info is ACTIVE 
+[07/30/20, 17:23:02:569] info: [API-Q] (T077KKCG6) noversion-1596118980.802 Flannel users/info is RESOLVED 
+[07/30/20, 17:23:56:716] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 17:23:56:717] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:24:00:808] info: [API-Q] (T077KKCG6) noversion-1596119040.806 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:24:00:808] info: [API-Q] (T077KKCG6) noversion-1596119040.806 Flannel users/info is ENQUEUED 
+[07/30/20, 17:24:00:811] info: [API-Q] (T077KKCG6) noversion-1596119040.806 Flannel users/info is ACTIVE 
+[07/30/20, 17:24:01:119] info: [API-Q] (T077KKCG6) noversion-1596119040.806 Flannel users/info is RESOLVED 
+[07/30/20, 17:24:59:807] info: [API-Q] (T077KKCG6) noversion-1596119099.804 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:24:59:807] info: [API-Q] (T077KKCG6) noversion-1596119099.804 Flannel users/info is ENQUEUED 
+[07/30/20, 17:24:59:809] info: [API-Q] (T077KKCG6) noversion-1596119099.804 Flannel users/info is ACTIVE 
+[07/30/20, 17:25:00:148] info: [API-Q] (T077KKCG6) noversion-1596119099.804 Flannel users/info is RESOLVED 
+[07/30/20, 17:27:00:824] info: [API-Q] (T077KKCG6) noversion-1596119220.820 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:27:00:825] info: [API-Q] (T077KKCG6) noversion-1596119220.820 Flannel users/info is ENQUEUED 
+[07/30/20, 17:27:00:827] info: [API-Q] (T077KKCG6) noversion-1596119220.820 Flannel users/info is ACTIVE 
+[07/30/20, 17:27:01:733] info: [API-Q] (T077KKCG6) noversion-1596119220.820 Flannel users/info is RESOLVED 
+[07/30/20, 17:28:56:720] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U016UT2QXT7,UKXCHMCNP,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U01279CBFT4,UKXCHPU9H,U0172E3TWFN 
+[07/30/20, 17:28:56:722] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 17:29:30:053] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 17:29:30:057] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 17:29:30:084] info: [API-Q] (T077KKCG6) noversion-1596119370.084 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 17:29:30:085] info: [API-Q] (T077KKCG6) noversion-1596119370.084 Flannel users/info is ENQUEUED 
+[07/30/20, 17:29:30:086] info: [API-Q] (T077KKCG6) noversion-1596119370.084 Flannel users/info is ACTIVE 
+[07/30/20, 17:29:30:983] info: [API-Q] (T077KKCG6) noversion-1596119370.084 Flannel users/info is RESOLVED 
+[07/30/20, 17:30:35:700] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Within limit: 11 
+[07/30/20, 17:31:39:446] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 17:31:39:500] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 17:31:39:500] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 17:31:40:028] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 17:31:42:954] info: [FOCUS-EVENT] Client window focused 
+[07/30/20, 17:31:43:013] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 17:31:43:013] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 17:31:48:118] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 17:31:49:253] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 17:31:49:263] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 18:28:29:631] info: 
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.7.0, linux 4.15.0-112-generic on x64 at 07/30/20, 18:28:29:631      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[07/30/20, 18:28:29:632] info: Configured logger via 
+{
+  "identifierOverride": "webapp-console",
+  "logLevel": "info",
+  "numberOfInstances": 2
+}
+[07/30/20, 18:28:29:632] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.7.0",
+  "PACKAGE_MANIFEST.commit": "7ffff30",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[07/30/20, 18:28:29:633] warn: (electron) crashReporter.start is deprecated in the renderer process. Call it from the main process instead. 
+[07/30/20, 18:28:29:633] info: Creating desktop interface object 
+[07/30/20, 18:28:29:633] info: Exposing context bridge 
+[07/30/20, 18:28:29:633] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[07/30/20, 18:28:29:633] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 282
+} 
+[07/30/20, 18:28:29:634] info: Store: MAIN_WINDOW_SHOWN  
+[07/30/20, 18:28:29:634] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 18:28:29:634] info: Store: CLEAR_NOTIFICATIONS  
+[07/30/20, 18:28:29:634] info: [METRICS] Starting timers for metrics collection 
+[07/30/20, 18:28:29:634] info: [PERF] setupGantry_w begin 964ms 
+[07/30/20, 18:28:29:635] info: [APP] client 
+[07/30/20, 18:28:29:635] info: [DATE/TIME] 1596122907074 "2020-07-30T15:28:27.074Z" 
+[07/30/20, 18:28:29:635] info: [VERSION] version_hash: f17925a9877265862a4a7e9e5f73e6499b6ea0f5 
+[07/30/20, 18:28:29:635] info: [VERSION] version_ts: 1596079934 
+[07/30/20, 18:28:29:635] info: [VERSION] min_version_data_ts: 1581290339 
+[07/30/20, 18:28:29:636] info: [AUTH] authCookieChanged: started listening to the event 
+[07/30/20, 18:28:29:636] info: [AUTH] Credentials are fresh (psc=1595945502, csc=1595945502) 
+[07/30/20, 18:28:29:636] info: [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T077KKCG6:U016UT2HM5K 
+[07/30/20, 18:28:29:636] info: [BOOT] Initial team ID: T077KKCG6 
+[07/30/20, 18:28:29:636] info: [PERF] setupGantry_w took 8.53ms 
+[07/30/20, 18:28:29:636] info: [PERF] bootClient_w begin 976ms 
+[07/30/20, 18:28:29:637] info: [BOOT] (T077KKCG6) Initializing boot 
+[07/30/20, 18:28:29:637] info: [BOOT] (T077KKCG6) Minimum supported data version is 1581290339; currently on 1596033940 
+[07/30/20, 18:28:29:637] info: [PERSIST] (T077KKCG6) Getting state from IndexedDB 
+[07/30/20, 18:28:29:637] info: [PERSIST] (T077KKCG6) Successfully got state from IndexedDB 
+[07/30/20, 18:28:29:637] info: [BOOT] (T077KKCG6) Booting with persisted store 
+[07/30/20, 18:28:29:637] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+} 
+[07/30/20, 18:28:29:638] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[07/30/20, 18:28:29:638] info: [PERSIST] (T077KKCG6) Checking for persistence method changes 
+[07/30/20, 18:28:29:638] info: [PERSIST] (T077KKCG6) Preparing state for hydration 
+[07/30/20, 18:28:29:638] info: [PERSIST] (T077KKCG6) sharedChannelContent store's shape has changed, throwing away persisted data for it. New hash 5b819bedcb84eb4466c9b7a02a82a947 doesn't equal old hash undefined 
+[07/30/20, 18:28:29:638] info: [PERSIST] (T077KKCG6) State prepared for hydration 
+[07/30/20, 18:28:29:638] info: [PERSIST] (T077KKCG6) Checking for required data 
+[07/30/20, 18:28:29:639] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[07/30/20, 18:28:29:639] info: [BOOT] (T077KKCG6) Booting warm 
+[07/30/20, 18:28:29:639] info: [DESKTOP-MIDDLEWARE] (T077KKCG6) Forwarding redux payload to desktop ["theme","notificationPrefs","featureFlags","bootConfig","unreads","locale","version"] 
+[07/30/20, 18:28:29:639] info: [DESKTOP-SIDE-EFFECT] (T077KKCG6) Team T077KKCG6 booted, creating delegate 
+[07/30/20, 18:28:29:639] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "T077KKCG6"
+} 
+[07/30/20, 18:28:29:639] info: Setting global desktop delegate 
+[07/30/20, 18:28:29:639] info: [DESKTOP-SIDE-EFFECT] (T077KKCG6) Attempted boot for all workspaces, signaling desktop 
+[07/30/20, 18:28:29:643] info: [BOOT] (T077KKCG6) Connecting to socket 
+[07/30/20, 18:28:29:643] info: [SOCKET-MANAGER] (T077KKCG6) Changing from never_connected to prov_connect 
+[07/30/20, 18:28:29:643] info: [SOCKET-MANAGER] (T077KKCG6) will stay in prov_connect state for up to 10000 ms 
+[07/30/20, 18:28:29:643] info: [SOCKET-MANAGER] (T077KKCG6) Changing from prov_connect to prov_connecting 
+[07/30/20, 18:28:29:643] info: [SOCKET-MANAGER] (T077KKCG6) will stay in prov_connecting state for up to 35000 ms 
+[07/30/20, 18:28:29:643] info: [BOOT] (T077KKCG6) Fetching fresh boot data after booting with persisted store 
+[07/30/20, 18:28:29:643] info: [BOOT] (T077KKCG6) Skipping persisted store if it exists because we're forcing fresh data fetch anyway 
+[07/30/20, 18:28:29:643] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.493 client.boot called with reason: deferred-data 
+[07/30/20, 18:28:29:644] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.493 client.boot is ENQUEUED 
+[07/30/20, 18:28:29:644] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.493 client.boot is ACTIVE 
+[07/30/20, 18:28:29:644] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.497 api.features called 
+[07/30/20, 18:28:29:644] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.497 api.features is ENQUEUED 
+[07/30/20, 18:28:29:644] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.498 experiments.getByUser called 
+[07/30/20, 18:28:29:644] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.498 experiments.getByUser is ENQUEUED 
+[07/30/20, 18:28:29:644] info: [BOOT] Booting into channel: D017YR103ED 
+[07/30/20, 18:28:29:644] info: [BOOT] (T077KKCG6) (T077KKCG6) Mounting client 
+[07/30/20, 18:28:29:644] info: [LS_CACHE] Read value from localStorage for iap2 
+[07/30/20, 18:28:29:644] info: [LAYOUT] (T077KKCG6) The layout has switched out of auto-collapse mode at window width 988px: {"teamSidebar":{"isVisible":false,"width":0},"sidebar":{"isCollapsed":false,"isForcedCollapsed":false,"width":220,"defaultWidth":220,"maxWidth":600},"main":{"width":768},"inspector":{"isCollapsed":true,"width":0,"defaultWidth":0}} 
+[07/30/20, 18:28:29:645] info: [DRAFTS] (T077KKCG6) There are no channels with drafts 
+[07/30/20, 18:28:29:645] info: [API-Q] (T077KKCG6) 51581052-1596122908.765 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[07/30/20, 18:28:29:645] info: [API-Q] (T077KKCG6) 51581052-1596122908.765 apps.getSidebarPrompts is ENQUEUED 
+[07/30/20, 18:28:29:645] info: [API-Q] (T077KKCG6) 51581052-1596122908.765 apps.getSidebarPrompts is ACTIVE 
+[07/30/20, 18:28:29:645] info: [BOOT] (T077KKCG6) Beaconed client boot mount success 
+[07/30/20, 18:28:29:645] info: [PERF] (T077KKCG6) Logged time to visible (TTV): 2749.645000000001 
+[07/30/20, 18:28:29:645] info: [API-Q] (T077KKCG6) 51581052-1596122909.255 experiments.setExposure called with reason: log-exposure 
+[07/30/20, 18:28:29:645] info: [API-Q] (T077KKCG6) 51581052-1596122909.255 experiments.setExposure is ENQUEUED 
+[07/30/20, 18:28:29:645] info: [API-Q] (T077KKCG6) 51581052-1596122909.255 experiments.setExposure is ACTIVE 
+[07/30/20, 18:28:29:646] info: [PERF] (T077KKCG6) First meaningful paint: 2371ms 
+[07/30/20, 18:28:29:646] info: [PERF] bootClient_w took 2172.76ms 
+[07/30/20, 18:28:29:646] info: [BOOT] Booting other teams:  
+[07/30/20, 18:28:29:646] info: [MIN-VERSION] Starting client min-version poll. 
+[07/30/20, 18:28:29:646] info: [PERSIST] Purging persisted models, except for the following teamIds ["T077KKCG6"] 
+[07/30/20, 18:28:29:646] info: [WD] All assets have reported back; s: 10; f: 0 
+[07/30/20, 18:28:29:646] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after workspace became focused 
+[07/30/20, 18:28:29:646] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 18:28:29:647] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after window became focused 
+[07/30/20, 18:28:29:647] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 18:28:29:649] info: Store: UPDATE_SETTINGS {
+  "userTheme": "light"
+} 
+[07/30/20, 18:28:29:649] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 18:28:29:650] info: Store: UPDATE_SETTINGS {
+  "systemThemeSyncEnabled": false
+} 
+[07/30/20, 18:28:29:653] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 18:28:29:654] info: Store: SYNC (Empty) 
+[07/30/20, 18:28:29:655] info: Store: SELECTION_CHANGED T077KKCG6 
+[07/30/20, 18:28:29:655] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [theme,notificationPrefs,featureFlags,bootConfig,unreads,locale,version] 
+[07/30/20, 18:28:29:655] info: Store: SYNC Synced 1 workspaces with IDs [T077KKCG6] 
+[07/30/20, 18:28:29:655] info: Store: SELECTION_CHANGED T077KKCG6 
+[07/30/20, 18:28:29:655] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "webapp-loaded"
+} 
+[07/30/20, 18:28:29:656] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 3,
+  "interval": 2171
+} 
+[07/30/20, 18:28:29:656] info: Store: UPDATE_SETTINGS {
+  "forceHiddenInsetTitleBar": false
+} 
+[07/30/20, 18:28:29:656] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 18:28:29:656] info: Store: UPDATE_SETTINGS {
+  "trafficLightPosition": {
+    "x": 14,
+    "y": 22
+  }
+} 
+[07/30/20, 18:28:29:656] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 18:28:29:656] info: Store: UPDATE_SETTINGS {
+  "isIAEnabled": true
+} 
+[07/30/20, 18:28:29:657] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[07/30/20, 18:28:29:657] info: [SERVICE-WORKER] registration success {} 
+[07/30/20, 18:28:29:657] info: [SERVICE-WORKER-STATE] initial activated 
+[07/30/20, 18:28:29:657] info: [API-Q] (T077KKCG6) 51581052-1596122908.765 apps.getSidebarPrompts is RESOLVED 
+[07/30/20, 18:28:29:657] info: [API-Q] (T077KKCG6) 51581052-1596122909.373 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[07/30/20, 18:28:29:657] info: [API-Q] (T077KKCG6) 51581052-1596122909.373 calendar.getInstalledCalendars is ENQUEUED 
+[07/30/20, 18:28:29:657] info: [API-Q] (T077KKCG6) 51581052-1596122909.373 calendar.getInstalledCalendars is ACTIVE 
+[07/30/20, 18:28:29:658] info: [API-Q] (T077KKCG6) 51581052-1596122909.377 promo.banner called with reason: fetch-megaphone-notification-data 
+[07/30/20, 18:28:29:658] info: [API-Q] (T077KKCG6) 51581052-1596122909.377 promo.banner is ENQUEUED 
+[07/30/20, 18:28:29:658] info: [API-Q] (T077KKCG6) 51581052-1596122909.377 promo.banner is ACTIVE 
+[07/30/20, 18:28:29:658] info: [API-Q] (T077KKCG6) 51581052-1596122909.380 team.whatsNew called with reason: boot-team 
+[07/30/20, 18:28:29:658] info: [API-Q] (T077KKCG6) 51581052-1596122909.380 team.whatsNew is ENQUEUED 
+[07/30/20, 18:28:29:658] info: [API-Q] (T077KKCG6) 51581052-1596122909.380 team.whatsNew is ACTIVE 
+[07/30/20, 18:28:29:659] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.493 client.boot is RESOLVED 
+[07/30/20, 18:28:29:659] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.497 api.features is ACTIVE 
+[07/30/20, 18:28:29:659] info: [UNKNOWN-FETCH-MANAGER] (T077KKCG6) requesting _all_actions (1) 
+[07/30/20, 18:28:29:659] info: [API-Q] (T077KKCG6) 51581052-1596122909.477 apps.actions.list called with reason: fetch-app-actions 
+[07/30/20, 18:28:29:659] info: [API-Q] (T077KKCG6) 51581052-1596122909.477 apps.actions.list is ENQUEUED 
+[07/30/20, 18:28:29:659] info: [API-Q] (T077KKCG6) 51581052-1596122909.477 apps.actions.list is ACTIVE 
+[07/30/20, 18:28:29:660] info: Network status check {
+  "elapsed_time_ms": 2785,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[07/30/20, 18:28:29:668] info: [PERSIST] Purged persisted models [] 
+[07/30/20, 18:28:29:670] info: Store: SET_NETWORK_STATUS online 
+[07/30/20, 18:28:29:684] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:28:29:686] info: [DND] (T077KKCG6) Preparing to fetch DND times for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H 
+[07/30/20, 18:28:29:687] info: [API-Q] (T077KKCG6) 51581052-1596122909.686 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[07/30/20, 18:28:29:687] info: [API-Q] (T077KKCG6) 51581052-1596122909.686 dnd.info is ENQUEUED 
+[07/30/20, 18:28:29:688] info: [API-Q] (T077KKCG6) 51581052-1596122909.686 dnd.info is ACTIVE 
+[07/30/20, 18:28:29:689] info: [API-Q] (T077KKCG6) 51581052-1596122909.688 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[07/30/20, 18:28:29:690] info: [API-Q] (T077KKCG6) 51581052-1596122909.688 dnd.teamInfo is ENQUEUED 
+[07/30/20, 18:28:29:690] info: [API-Q] (T077KKCG6) 51581052-1596122909.688 dnd.teamInfo is ACTIVE 
+[07/30/20, 18:28:29:692] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[07/30/20, 18:28:29:728] info: [API-Q] (T077KKCG6) 51581052-1596122909.373 calendar.getInstalledCalendars is RESOLVED 
+[07/30/20, 18:28:29:729] info: [API-Q] (T077KKCG6) 51581052-1596122909.380 team.whatsNew is RESOLVED 
+[07/30/20, 18:28:29:731] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.497 api.features is RESOLVED 
+[07/30/20, 18:28:29:732] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.498 experiments.getByUser is ACTIVE 
+[07/30/20, 18:28:29:734] info: [API-Q] (T077KKCG6) 51581052-1596122909.377 promo.banner is RESOLVED 
+[07/30/20, 18:28:29:741] info: [API-Q] (T077KKCG6) 51581052-1596122909.740 calendar.user.info called with reason: calendar-get-user-info 
+[07/30/20, 18:28:29:741] info: [API-Q] (T077KKCG6) 51581052-1596122909.740 calendar.user.info is ENQUEUED 
+[07/30/20, 18:28:29:742] info: [API-Q] (T077KKCG6) 51581052-1596122909.740 calendar.user.info is ACTIVE 
+[07/30/20, 18:28:29:809] info: [PERSIST] (T077KKCG6) Successfully persisted state 
+[07/30/20, 18:28:29:941] info: [API-Q] (T077KKCG6) 51581052-1596122909.255 experiments.setExposure is RESOLVED 
+[07/30/20, 18:28:30:351] info: [SOCKET-MANAGER] (T077KKCG6) Changing from prov_connecting to prov_connected 
+[07/30/20, 18:28:30:352] info: [SOCKET-MANAGER] (T077KKCG6) will stay in prov_connected state for up to 60000 ms 
+[07/30/20, 18:28:30:361] info: [SOCKET-MANAGER] (T077KKCG6) Changing from prov_connected to prov_finalize 
+[07/30/20, 18:28:30:362] info: [SOCKET-MANAGER] (T077KKCG6) will stay in prov_finalize state for up to 10000 ms 
+[07/30/20, 18:28:30:363] info: [SOCKET-MANAGER] (T077KKCG6) Changing from prov_finalize to prov_finalizing 
+[07/30/20, 18:28:30:363] info: [SOCKET-MANAGER] (T077KKCG6) will stay in prov_finalizing state for up to 10000 ms 
+[07/30/20, 18:28:30:364] info: [SOCKET-MANAGER] (T077KKCG6) Changing from prov_finalizing to connected 
+[07/30/20, 18:28:30:364] info: [SOCKET-MANAGER] (T077KKCG6) will stay in connected state for up to Infinity ms 
+[07/30/20, 18:28:30:365] info: [SOCKET-MANAGER] (T077KKCG6) Connected to primary region 
+[07/30/20, 18:28:30:369] info: [EVENTLOG] (T077KKCG6) fr=false, lc=false, lt=1596115317.004400 
+[07/30/20, 18:28:30:370] info: [EVENTLOG] (T077KKCG6) fetching events since 1596115317.004400 (7594 seconds ago) 
+[07/30/20, 18:28:30:371] info: [API-Q] (T077KKCG6) 51581052-1596122910.370 ublockworkaround.history called with reason: fetchEventLogHistoryImmediately 
+[07/30/20, 18:28:30:371] info: [API-Q] (T077KKCG6) 51581052-1596122910.370 ublockworkaround.history is ENQUEUED 
+[07/30/20, 18:28:30:372] info: [API-Q] (T077KKCG6) 51581052-1596122910.370 ublockworkaround.history is ACTIVE 
+[07/30/20, 18:28:30:374] info: [API-Q] (T077KKCG6) 51581052-1596122910.372 ublockworkaround.history called with reason: fetchEventLogHistoryImmediately 
+[07/30/20, 18:28:30:374] info: [API-Q] (T077KKCG6) 51581052-1596122910.372 ublockworkaround.history is ENQUEUED 
+[07/30/20, 18:28:30:375] info: [API-Q] (T077KKCG6) 51581052-1596122910.372 ublockworkaround.history is ACTIVE 
+[07/30/20, 18:28:30:376] info: [MESSAGE-HISTORY] (T077KKCG6) Resetting reachedEnd 
+[07/30/20, 18:28:30:384] info: [PRESENCE_PROMPT] (T077KKCG6) ignoring prompt due to presence (active) 
+[07/30/20, 18:28:30:385] info: [UNREAD-COUNTS] (T077KKCG6) Fetching counts 
+[07/30/20, 18:28:30:385] info: [API-Q] (T077KKCG6) 51581052-1596122910.385 client.counts called with reason: client-counts-api/fetchClientCounts 
+[07/30/20, 18:28:30:386] info: [API-Q] (T077KKCG6) 51581052-1596122910.385 client.counts is ENQUEUED 
+[07/30/20, 18:28:30:387] info: [API-Q] (T077KKCG6) 51581052-1596122910.385 client.counts is ACTIVE 
+[07/30/20, 18:28:30:409] info: [HISTORY-FETCH] (T077KKCG6) Fetching history for message pane: D017YR103ED oldest: 1596115313.000200 latest: null 
+[07/30/20, 18:28:30:410] info: [API-Q] (T077KKCG6) 51581052-1596122910.409 conversations.history called with reason: message-pane/requestHistory 
+[07/30/20, 18:28:30:411] info: [API-Q] (T077KKCG6) 51581052-1596122910.409 conversations.history is ENQUEUED 
+[07/30/20, 18:28:30:411] info: [API-Q] (T077KKCG6) 51581052-1596122910.409 conversations.history is ACTIVE 
+[07/30/20, 18:28:30:419] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: true -> false 
+[07/30/20, 18:28:30:436] info: [API-Q] (T077KKCG6) 51581052-1596122909.477 apps.actions.list is RESOLVED 
+[07/30/20, 18:28:30:458] info: [UNKNOWN-FETCH-MANAGER] (T077KKCG6) received _all_actions (1) 
+[07/30/20, 18:28:30:582] info: [API-Q] (T077KKCG6) 51581052-1596122909.686 dnd.info is RESOLVED 
+[07/30/20, 18:28:30:584] info: [DND] (T077KKCG6) Fetched DND info for the following member: U016UT2HM5K 
+[07/30/20, 18:28:30:587] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K 
+[07/30/20, 18:28:30:589] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:28:30:590] info: [API-Q] (T077KKCG6) 51581052-1596122909.688 dnd.teamInfo is RESOLVED 
+[07/30/20, 18:28:30:614] info: [DND] (T077KKCG6) Fetched DND info for the following members: U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H 
+[07/30/20, 18:28:30:615] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H 
+[07/30/20, 18:28:30:621] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:28:30:647] info: [API-Q] (T077KKCG6) 51581052-1596122910.370 ublockworkaround.history is RESOLVED 
+[07/30/20, 18:28:30:648] info: [API-Q] (T077KKCG6) 51581052-1596122909.740 calendar.user.info is RESOLVED 
+[07/30/20, 18:28:30:649] info: [BOOT-QUEUE] T077KKCG6 noversion-1596122908.498 experiments.getByUser is RESOLVED 
+[07/30/20, 18:28:30:652] info: [EVENTLOG] (T077KKCG6) processing 3 events out of a total set of 3 
+[07/30/20, 18:28:30:672] info: [RTM] (T077KKCG6) Processed 1 message event(s) in 16.495 ms 
+[07/30/20, 18:28:30:752] info: [API-Q] (T077KKCG6) noversion-1596122910.751 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 18:28:30:753] info: [API-Q] (T077KKCG6) noversion-1596122910.751 Flannel users/info is ENQUEUED 
+[07/30/20, 18:28:30:753] info: [API-Q] (T077KKCG6) noversion-1596122910.751 Flannel users/info is ACTIVE 
+[07/30/20, 18:28:30:755] info: [API-Q] (T077KKCG6) 51581052-1596122910.754 team.info called with reason: conditional-fetching 
+[07/30/20, 18:28:30:756] info: [API-Q] (T077KKCG6) 51581052-1596122910.754 team.info is ENQUEUED 
+[07/30/20, 18:28:30:756] info: [API-Q] (T077KKCG6) 51581052-1596122910.754 team.info is ACTIVE 
+[07/30/20, 18:28:30:758] info: [API-Q] (T077KKCG6) 51581052-1596122910.756 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[07/30/20, 18:28:30:759] info: [API-Q] (T077KKCG6) 51581052-1596122910.756 help.issues.list is ENQUEUED 
+[07/30/20, 18:28:30:759] info: [API-Q] (T077KKCG6) 51581052-1596122910.756 help.issues.list is ACTIVE 
+[07/30/20, 18:28:30:760] info: [API-Q] (T077KKCG6) noversion-1596122910.759 Flannel channels/info called with reason: flannel-call:channels/info 
+[07/30/20, 18:28:30:761] info: [API-Q] (T077KKCG6) noversion-1596122910.759 Flannel channels/info is ENQUEUED 
+[07/30/20, 18:28:30:761] info: [API-Q] (T077KKCG6) noversion-1596122910.759 Flannel channels/info is ACTIVE 
+[07/30/20, 18:28:30:762] info: [API-Q] (T077KKCG6) 51581052-1596122910.761 users.channelSections.list called with reason: conditional-fetch-manager 
+[07/30/20, 18:28:30:763] info: [API-Q] (T077KKCG6) 51581052-1596122910.761 users.channelSections.list is ENQUEUED 
+[07/30/20, 18:28:30:764] info: [API-Q] (T077KKCG6) 51581052-1596122910.761 users.channelSections.list is ACTIVE 
+[07/30/20, 18:28:30:767] info: [API-Q] (T077KKCG6) noversion-1596122910.764 Flannel users/counts called with reason: flannel-call:users/counts 
+[07/30/20, 18:28:30:768] info: [API-Q] (T077KKCG6) noversion-1596122910.764 Flannel users/counts is ENQUEUED 
+[07/30/20, 18:28:30:768] info: [API-Q] (T077KKCG6) noversion-1596122910.764 Flannel users/counts is ACTIVE 
+[07/30/20, 18:28:30:770] info: [HISTORY-CFM] (T077KKCG6) Re-fetching D017YR103ED 1595491425.001100 - 1596115313.000200 
+[07/30/20, 18:28:30:770] info: [API-Q] (T077KKCG6) 51581052-1596122910.768 conversations.history called with reason: channel-history-store.CFM.fetch 
+[07/30/20, 18:28:30:771] info: [API-Q] (T077KKCG6) 51581052-1596122910.768 conversations.history is ENQUEUED 
+[07/30/20, 18:28:30:772] info: [API-Q] (T077KKCG6) 51581052-1596122910.768 conversations.history is ACTIVE 
+[07/30/20, 18:28:30:940] info: [BOOT] (T077KKCG6) Dispatching boot data 
+[07/30/20, 18:28:30:947] info: [DESKTOP-MIDDLEWARE] (T077KKCG6) Forwarding redux payload to desktop ["version"] 
+[07/30/20, 18:28:30:971] info: [API-Q] (T077KKCG6) f17925a9-1596122910.970 links.getDomains called with reason: siws-links 
+[07/30/20, 18:28:30:971] info: [API-Q] (T077KKCG6) f17925a9-1596122910.970 links.getDomains is ENQUEUED 
+[07/30/20, 18:28:30:983] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) Not updating count for channel D017YR103ED, as count was already set to 0 
+[07/30/20, 18:28:30:987] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because (8) timestamps added 
+[07/30/20, 18:28:30:988] info: [BOOT] (T077KKCG6) Boot complete 
+[07/30/20, 18:28:30:990] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017YR103ED after a new message 
+[07/30/20, 18:28:30:990] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 18:28:30:991] info: [DESKTOP-SIDE-EFFECT] (T077KKCG6) Reacting to  {"type":"[31] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[07/30/20, 18:28:31:094] info: [PERF] (T077KKCG6) Logged time to usable (TTU): 5067.400000000006 
+[07/30/20, 18:28:31:165] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [version] 
+[07/30/20, 18:28:31:168] info: [API-Q] (T077KKCG6) 51581052-1596122910.754 team.info is RESOLVED 
+[07/30/20, 18:28:31:169] info: [API-Q] (T077KKCG6) f17925a9-1596122910.970 links.getDomains is ACTIVE 
+[07/30/20, 18:28:31:170] info: [API-Q] (T077KKCG6) 51581052-1596122910.756 help.issues.list is RESOLVED 
+[07/30/20, 18:28:31:171] info: [API-Q] (T077KKCG6) 51581052-1596122910.761 users.channelSections.list is RESOLVED 
+[07/30/20, 18:28:31:172] info: [API-Q] (T077KKCG6) 51581052-1596122910.372 ublockworkaround.history is RESOLVED 
+[07/30/20, 18:28:31:173] info: [API-Q] (T077KKCG6) 51581052-1596122910.385 client.counts is RESOLVED 
+[07/30/20, 18:28:31:174] info: [API-Q] (T077KKCG6) 51581052-1596122910.409 conversations.history is RESOLVED 
+[07/30/20, 18:28:31:190] info: [EVENTLOG] (T077KKCG6) nothing to process 
+[07/30/20, 18:28:31:191] info: [EVENTLOG] (T077KKCG6) fetched finish (cancelled? false) 
+[07/30/20, 18:28:31:191] info: [EVENTLOG] (T077KKCG6) dispatching signal and clearing timestamp 
+[07/30/20, 18:28:31:193] info: [COUNTS] (T077KKCG6) Applying counts to channels 
+[07/30/20, 18:28:31:198] info: [COUNTS] (T077KKCG6) Recounted D017YR103ED; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[07/30/20, 18:28:31:199] info: [COUNTS] (T077KKCG6) Threads has_unreads:false mention_count:0 
+[07/30/20, 18:28:31:199] info: [DESKTOP-MIDDLEWARE] (T077KKCG6) Forwarding redux payload to desktop ["unreads"] 
+[07/30/20, 18:28:31:203] info: [COUNTS] (T077KKCG6) Completed counts processing 
+[07/30/20, 18:28:31:206] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) Not updating count for channel D017YR103ED, as count was already set to 0 
+[07/30/20, 18:28:31:209] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because (1) timestamps added 
+[07/30/20, 18:28:31:234] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 8 
+[07/30/20, 18:28:31:254] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 18:28:31:328] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [unreads] 
+[07/30/20, 18:28:31:434] info: [API-Q] (T077KKCG6) f17925a9-1596122910.970 links.getDomains is RESOLVED 
+[07/30/20, 18:28:31:462] info: [API-Q] (T077KKCG6) 51581052-1596122910.768 conversations.history is RESOLVED 
+[07/30/20, 18:28:31:471] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) Not updating count for channel D017YR103ED, as count was already set to 0 
+[07/30/20, 18:28:31:474] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017YR103ED because (8) timestamps added 
+[07/30/20, 18:28:31:530] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017YR103ED after a new message 
+[07/30/20, 18:28:31:530] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 18:28:31:530] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017YR103ED after a new message 
+[07/30/20, 18:28:31:531] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 18:28:31:674] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 18:28:31:676] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017YR103ED because last_read >= latest && channel is read 
+[07/30/20, 18:28:31:819] info: [DND] (T077KKCG6) Preparing to fetch DND times for the following members: UKXCHMCNP 
+[07/30/20, 18:28:31:820] info: [API-Q] (T077KKCG6) f17925a9-1596122911.819 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[07/30/20, 18:28:31:821] info: [API-Q] (T077KKCG6) f17925a9-1596122911.819 dnd.teamInfo is ENQUEUED 
+[07/30/20, 18:28:31:822] info: [API-Q] (T077KKCG6) f17925a9-1596122911.819 dnd.teamInfo is ACTIVE 
+[07/30/20, 18:28:32:087] info: [API-Q] (T077KKCG6) f17925a9-1596122911.819 dnd.teamInfo is RESOLVED 
+[07/30/20, 18:28:32:089] info: [DND] (T077KKCG6) Fetched DND info for the following members: UKXCHMCNP 
+[07/30/20, 18:28:32:093] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H,UKXCHMCNP 
+[07/30/20, 18:28:32:094] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:28:32:661] info: [API-Q] (T077KKCG6) noversion-1596122910.759 Flannel channels/info is RESOLVED 
+[07/30/20, 18:28:32:662] info: [API-Q] (T077KKCG6) noversion-1596122910.751 Flannel users/info is RESOLVED 
+[07/30/20, 18:28:32:665] info: [API-Q] (T077KKCG6) f17925a9-1596122912.664 conversations.genericInfo called with reason: fallback:fetchAndUpsertChannelsById 
+[07/30/20, 18:28:32:665] info: [API-Q] (T077KKCG6) f17925a9-1596122912.664 conversations.genericInfo is ENQUEUED 
+[07/30/20, 18:28:32:666] info: [API-Q] (T077KKCG6) f17925a9-1596122912.664 conversations.genericInfo is ACTIVE 
+[07/30/20, 18:28:32:697] info: [API-Q] (T077KKCG6) noversion-1596122912.697 Flannel users/info called with reason: flannel-call:users/info 
+[07/30/20, 18:28:32:698] info: [API-Q] (T077KKCG6) noversion-1596122912.697 Flannel users/info is ENQUEUED 
+[07/30/20, 18:28:32:699] info: [API-Q] (T077KKCG6) noversion-1596122912.697 Flannel users/info is ACTIVE 
+[07/30/20, 18:28:32:818] info: [API-Q] (T077KKCG6) noversion-1596122910.764 Flannel users/counts is RESOLVED 
+[07/30/20, 18:28:33:028] info: [API-Q] (T077KKCG6) noversion-1596122912.697 Flannel users/info is RESOLVED 
+[07/30/20, 18:28:33:077] info: [API-Q] (T077KKCG6) f17925a9-1596122912.664 conversations.genericInfo is RESOLVED 
+[07/30/20, 18:28:33:078] info: [API-Q] (T077KKCG6) f17925a9-1596122913.078 experiments.setExposure called with reason: log-exposure 
+[07/30/20, 18:28:33:079] info: [API-Q] (T077KKCG6) f17925a9-1596122913.078 experiments.setExposure is ENQUEUED 
+[07/30/20, 18:28:33:080] info: [API-Q] (T077KKCG6) f17925a9-1596122913.078 experiments.setExposure is ACTIVE 
+[07/30/20, 18:28:33:081] info: [API-Q] (T077KKCG6) f17925a9-1596122913.079 users.prefs.set called with reason: maybeSetReachedAllDMsDisclosure 
+[07/30/20, 18:28:33:081] info: [API-Q] (T077KKCG6) f17925a9-1596122913.079 users.prefs.set is ENQUEUED 
+[07/30/20, 18:28:33:082] info: [API-Q] (T077KKCG6) f17925a9-1596122913.079 users.prefs.set is ACTIVE 
+[07/30/20, 18:28:33:083] info: [API-Q] (T077KKCG6) f17925a9-1596122913.081 experiments.setExposure called with reason: log-exposure 
+[07/30/20, 18:28:33:083] info: [API-Q] (T077KKCG6) f17925a9-1596122913.081 experiments.setExposure is ENQUEUED 
+[07/30/20, 18:28:33:084] info: [API-Q] (T077KKCG6) f17925a9-1596122913.081 experiments.setExposure is ACTIVE 
+[07/30/20, 18:28:33:494] info: [API-Q] (T077KKCG6) f17925a9-1596122913.078 experiments.setExposure is RESOLVED 
+[07/30/20, 18:28:33:495] info: [API-Q] (T077KKCG6) f17925a9-1596122913.081 experiments.setExposure is RESOLVED 
+[07/30/20, 18:28:33:496] info: [API-Q] (T077KKCG6) f17925a9-1596122913.079 users.prefs.set is RESOLVED 
+[07/30/20, 18:28:41:551] info: [ACTION:CHANNEL-SIDEBAR] Selected D017FETQKLZ 
+[07/30/20, 18:28:41:552] info: [CHANNEL-SIDEBAR] (T077KKCG6) onItemSelect D017FETQKLZ 
+[07/30/20, 18:28:41:563] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[07/30/20, 18:28:41:564] info: [SWITCH-TO-CHANNEL] (T077KKCG6) Switching to D017FETQKLZ at end 
+[07/30/20, 18:28:41:604] info: [MESSAGE-LIST] (T077KKCG6) Switching channels: D017FETQKLZ timestamps: 0 
+[07/30/20, 18:28:41:605] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017FETQKLZ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 18:28:41:605] info: [HISTORY-FETCH] (T077KKCG6) Fetching history for message pane: D017FETQKLZ oldest: null latest: null 
+[07/30/20, 18:28:41:606] info: [API-Q] (T077KKCG6) f17925a9-1596122921.605 conversations.history called with reason: message-pane/requestHistory 
+[07/30/20, 18:28:41:606] info: [API-Q] (T077KKCG6) f17925a9-1596122921.605 conversations.history is ENQUEUED 
+[07/30/20, 18:28:41:607] info: [API-Q] (T077KKCG6) f17925a9-1596122921.605 conversations.history is ACTIVE 
+[07/30/20, 18:28:41:630] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017FETQKLZ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 18:28:41:630] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017FETQKLZ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 18:28:41:659] info: [API-Q] (T077KKCG6) noversion-1596122921.658 Flannel users/counts called with reason: flannel-call:users/counts 
+[07/30/20, 18:28:41:660] info: [API-Q] (T077KKCG6) noversion-1596122921.658 Flannel users/counts is ENQUEUED 
+[07/30/20, 18:28:41:661] info: [API-Q] (T077KKCG6) noversion-1596122921.658 Flannel users/counts is ACTIVE 
+[07/30/20, 18:28:41:664] info: [MESSAGE-LIST] (T077KKCG6) requestAround channelId: D017FETQKLZ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[07/30/20, 18:28:41:678] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[07/30/20, 18:28:41:906] info: [API-Q] (T077KKCG6) f17925a9-1596122921.605 conversations.history is RESOLVED 
+[07/30/20, 18:28:41:920] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) setting count for channel D017FETQKLZ to 0, and marking channel as stale. 
+[07/30/20, 18:28:41:924] info: [PINS] (T077KKCG6) Pins count updated for channel D017FETQKLZ: 0 
+[07/30/20, 18:28:41:926] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in D017FETQKLZ because (21) timestamps added 
+[07/30/20, 18:28:41:927] info: [UNREAD-COUNTS] (T077KKCG6) Checking unreads in D017FETQKLZ after a new message 
+[07/30/20, 18:28:41:928] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017FETQKLZ because last_read >= latest && channel is read 
+[07/30/20, 18:28:41:951] info: [MESSAGE-LIST] (T077KKCG6) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 21 
+[07/30/20, 18:28:42:206] info: [CHECK-UNREADS] (T077KKCG6) unreadLineVisible updated: false -> true 
+[07/30/20, 18:28:42:314] info: [API-Q] (T077KKCG6) noversion-1596122921.658 Flannel users/counts is RESOLVED 
+[07/30/20, 18:28:42:644] info: [CHECK-UNREADS] (T077KKCG6) Checking unreads after unread line became visible 
+[07/30/20, 18:28:42:645] info: [CHECK-UNREADS] (T077KKCG6) Not marking D017FETQKLZ because last_read >= latest && channel is read 
+[07/30/20, 18:28:45:164] warn: PERMALINK (T077KKCG6) openPermalink: Unable to parse permalink, opening in new tab 
+[07/30/20, 18:28:46:085] info: [FOCUS-EVENT] Client window blurred 
+[07/30/20, 18:29:26:350] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 18:29:26:359] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:29:30:371] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Over by 1 
+[07/30/20, 18:29:41:190] info: [API-Q] (T077KKCG6) f17925a9-1596122981.188 client.counts called with reason: client-counts-api/fetchClientCounts 
+[07/30/20, 18:29:41:190] info: [API-Q] (T077KKCG6) f17925a9-1596122981.188 client.counts is ENQUEUED 
+[07/30/20, 18:29:41:192] info: [API-Q] (T077KKCG6) f17925a9-1596122981.188 client.counts is ACTIVE 
+[07/30/20, 18:29:41:879] info: [API-Q] (T077KKCG6) f17925a9-1596122981.188 client.counts is RESOLVED 
+[07/30/20, 18:29:41:886] info: [COUNTS] (T077KKCG6) Applying counts to channels 
+[07/30/20, 18:29:41:892] info: [COUNTS] (T077KKCG6) Recounted D017FETQKLZ; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[07/30/20, 18:29:41:892] info: [COUNTS] (T077KKCG6) Recounted D017YR103ED; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[07/30/20, 18:29:41:893] info: [COUNTS] (T077KKCG6) Threads has_unreads:false mention_count:0 
+[07/30/20, 18:29:41:893] info: [COUNTS] (T077KKCG6) Completed counts processing 
+[07/30/20, 18:29:44:985] info: [API-Q] (T077KKCG6) f17925a9-1596122984.983 channels.suggestions called with reason: channels-suggestions 
+[07/30/20, 18:29:44:986] info: [API-Q] (T077KKCG6) f17925a9-1596122984.983 channels.suggestions is ENQUEUED 
+[07/30/20, 18:29:44:988] info: [API-Q] (T077KKCG6) f17925a9-1596122984.983 channels.suggestions is ACTIVE 
+[07/30/20, 18:29:45:263] info: [API-Q] (T077KKCG6) f17925a9-1596122984.983 channels.suggestions is RESOLVED 
+[07/30/20, 18:30:06:365] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 18:30:06:371] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:30:56:384] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 18:30:56:389] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:33:24:763] info: [RTM] (T077KKCG6) Processed 1 user_typing event(s) in 27.61 ms 
+[07/30/20, 18:33:32:129] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H,UKXCHMCNP 
+[07/30/20, 18:33:32:129] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:38:04:172] info: [RTM] (T077KKCG6) Processed 1 group_marked event(s) in 31.855 ms 
+[07/30/20, 18:38:04:173] info: [UNREAD-COUNTS] (T077KKCG6) Counting unreads in G017E5SRV7B because last_read changed to 1596121289.166900 
+[07/30/20, 18:38:04:174] info: [UNREAD-COUNTS] (T077KKCG6) Fetching history for unread counting: G017E5SRV7B, waiting 0 ms 
+[07/30/20, 18:38:04:226] info: [HISTORY-FETCH] (T077KKCG6) Fetching history for unread counting: G017E5SRV7B 
+[07/30/20, 18:38:04:227] info: [API-Q] (T077KKCG6) f17925a9-1596123484.226 conversations.history called with reason: unread-counts/onLastReadUpdated 
+[07/30/20, 18:38:04:228] info: [API-Q] (T077KKCG6) f17925a9-1596123484.226 conversations.history is ENQUEUED 
+[07/30/20, 18:38:04:229] info: [API-Q] (T077KKCG6) f17925a9-1596123484.226 conversations.history is ACTIVE 
+[07/30/20, 18:38:04:833] info: [API-Q] (T077KKCG6) f17925a9-1596123484.226 conversations.history is RESOLVED 
+[07/30/20, 18:38:04:852] info: [PLATFORM-CHANNEL-ACTI] (T077KKCG6) Not updating count for channel G017E5SRV7B, as count was already set to 0 
+[07/30/20, 18:38:04:857] info: [COUNTS] (T077KKCG6) Updated unread_cnt for G017E5SRV7B: 0 
+[07/30/20, 18:38:32:131] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H,UKXCHMCNP 
+[07/30/20, 18:38:32:132] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:40:36:573] info: Store: SET_SYSTEM_IDLE idle_presence 
+[07/30/20, 18:40:36:578] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:43:32:136] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H,UKXCHMCNP 
+[07/30/20, 18:43:32:136] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:44:30:409] info: [CHECK-FOR-OLD-IMS] (T077KKCG6) Over by 1 
+[07/30/20, 18:48:32:142] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H,UKXCHMCNP 
+[07/30/20, 18:48:32:143] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:48:46:127] info: [OPPORTUNISTIC_RELOADS] User has been blurred for 1200000 ms, evaluating whether or not we should reload opportunistically 
+[07/30/20, 18:48:46:127] info: [OPPORTUNISTIC_RELOADS] Client is still visible to the user even though it is not focused, will avoid updating 
+[07/30/20, 18:49:26:754] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 18:49:26:759] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:49:56:780] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 18:49:56:786] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:51:46:849] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 18:51:46:853] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:52:36:883] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[07/30/20, 18:52:36:889] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[07/30/20, 18:53:32:147] info: [DND] (T077KKCG6) Checking for changes in DND status for the following members: U016UT2HM5K,U01279CBFT4,U016UT361TP,U016WEWL7M1,U017L3Z9DUY,U016WEX9Q67,U017L3YBQRE,U016UT2QXT7,U0172E3TWFN,UKXCHPU9H,UKXCHMCNP 
+[07/30/20, 18:53:32:147] info: [DND] (T077KKCG6) Will check for changes in DND status again in 5 minutes 
+[07/30/20, 18:54:36:965] info: Store: SET_SYSTEM_IDLE active 
+[07/30/20, 18:54:36:970] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 

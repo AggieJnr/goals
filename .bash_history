@@ -114,3 +114,21 @@ git commit -m "iBiz-Foods"
 git push origin master
 git push origin iBiz-Foods
 git push iBiz-Foods
+git init
+git add .
+git commmit "first commit"
+git commit -m "first commit"
+git push origin master
+git add .
+git commit -m "iBiz-Foods"
+git push origin master
+git add .
+git commit -m "iBiz-Foods"
+cd Desktop
+iBiz-Foods
+git add .
+git commit -m "iBiz-Foods"
+git push origin master
+git commit "iBiz-Foods"
+git commit -m "iBiz-Foods"
+git push origin master

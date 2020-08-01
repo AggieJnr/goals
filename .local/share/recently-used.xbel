@@ -506,7 +506,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Documents/Zoom/2020-07-23%2018.23.37%20Class%20Check%20In%2097579171026/meeting_saved_chat.txt" added="2020-07-23T15:55:37Z" modified="2020-07-23T15:55:37Z" visited="2020-07-23T15:55:37Z">
+  <bookmark href="file:///home/moringa/Documents/Zoom/2020-07-23%2018.23.37%20Class%20Check%20In%2097579171026/meeting_saved_chat.txt" added="2020-07-23T15:55:37Z" modified="2020-07-30T13:03:13Z" visited="2020-07-23T15:55:37Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -514,7 +514,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-07-23T15:55:37Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-07-30T13:03:13Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -617,22 +617,30 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/20200131_144718.jpg" added="2020-07-27T10:54:16Z" modified="2020-07-27T10:54:16Z" visited="2020-07-27T10:54:17Z">
+  <bookmark href="file:///home/moringa/Downloads/20200131_144718.jpg" added="2020-07-27T10:54:16Z" modified="2020-08-01T12:50:56Z" visited="2020-07-27T10:54:17Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-27T10:54:16Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:50:56Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/20191015_152325.jpg" added="2020-07-27T10:54:46Z" modified="2020-07-27T10:54:46Z" visited="2020-07-27T10:54:46Z">
+  <bookmark href="file:///home/moringa/Downloads/20191015_152325.jpg" added="2020-07-27T10:54:46Z" modified="2020-08-01T12:50:54Z" visited="2020-07-27T10:54:46Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-27T10:54:46Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:50:54Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -671,82 +679,110 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/index.html" added="2020-07-29T08:56:45Z" modified="2020-07-29T08:56:45Z" visited="2020-07-29T08:56:46Z">
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/index.html" added="2020-07-29T08:56:45Z" modified="2020-08-01T12:18:23Z" visited="2020-07-29T08:56:46Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-29T08:56:45Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-01T12:18:23Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/3d60f129-0d5d-49c9-8af5-136657910d83_200x200.png" added="2020-07-29T10:00:58Z" modified="2020-07-29T10:00:58Z" visited="2020-07-29T10:00:58Z">
+  <bookmark href="file:///home/moringa/Downloads/3d60f129-0d5d-49c9-8af5-136657910d83_200x200.png" added="2020-07-29T10:00:58Z" modified="2020-08-01T12:50:49Z" visited="2020-07-29T10:00:58Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-29T10:00:58Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:50:49Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/images.jpeg" added="2020-07-30T07:10:54Z" modified="2020-07-30T07:10:54Z" visited="2020-07-30T07:10:54Z">
+  <bookmark href="file:///home/moringa/Downloads/images.jpeg" added="2020-07-30T07:10:54Z" modified="2020-08-01T12:55:47Z" visited="2020-07-30T07:10:54Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:10:54Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:55:47Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/IMG_9152.jpg" added="2020-07-30T07:14:47Z" modified="2020-07-30T07:14:47Z" visited="2020-07-30T07:14:48Z">
+  <bookmark href="file:///home/moringa/Downloads/IMG_9152.jpg" added="2020-07-30T07:14:47Z" modified="2020-08-01T12:51:06Z" visited="2020-07-30T07:14:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:14:47Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:51:06Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/french-fries-_295x200_1527246234537.jpg" added="2020-07-30T07:17:14Z" modified="2020-07-30T07:17:14Z" visited="2020-07-30T07:17:14Z">
+  <bookmark href="file:///home/moringa/Downloads/french-fries-_295x200_1527246234537.jpg" added="2020-07-30T07:17:14Z" modified="2020-08-01T12:55:17Z" visited="2020-07-30T07:17:14Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:17:14Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:55:17Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/Smoked-Baby-Back-Ribs-with-Bourbon-Maple-Glaze-2860.21.jpg" added="2020-07-30T07:21:23Z" modified="2020-07-30T07:21:23Z" visited="2020-07-30T07:21:24Z">
+  <bookmark href="file:///home/moringa/Downloads/Smoked-Baby-Back-Ribs-with-Bourbon-Maple-Glaze-2860.21.jpg" added="2020-07-30T07:21:23Z" modified="2020-08-01T12:50:42Z" visited="2020-07-30T07:21:24Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:21:23Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:50:42Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/farmers-salad.jpg" added="2020-07-30T07:24:08Z" modified="2020-07-30T07:24:08Z" visited="2020-07-30T07:24:08Z">
+  <bookmark href="file:///home/moringa/Downloads/farmers-salad.jpg" added="2020-07-30T07:24:08Z" modified="2020-08-01T12:51:02Z" visited="2020-07-30T07:24:08Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:24:08Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:51:02Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/burger-fb.jpg" added="2020-07-30T07:25:23Z" modified="2020-07-30T07:25:23Z" visited="2020-07-30T07:25:24Z">
+  <bookmark href="file:///home/moringa/Downloads/burger-fb.jpg" added="2020-07-30T07:25:23Z" modified="2020-08-01T12:51:00Z" visited="2020-07-30T07:25:24Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:25:23Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:51:00Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -761,22 +797,172 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/49201136-fresh-juices-with-fruits-and-vegetables-on-wooden-background.jpg" added="2020-07-30T07:28:32Z" modified="2020-07-30T07:28:32Z" visited="2020-07-30T07:28:33Z">
+  <bookmark href="file:///home/moringa/Downloads/49201136-fresh-juices-with-fruits-and-vegetables-on-wooden-background.jpg" added="2020-07-30T07:28:32Z" modified="2020-08-01T12:50:58Z" visited="2020-07-30T07:28:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:28:32Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:50:58Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringa/Downloads/logo%2053146e1f-e8f5-4dba-a328-1865660da2d7_200x200.png" added="2020-07-30T07:42:23Z" modified="2020-07-30T07:42:23Z" visited="2020-07-30T07:42:23Z">
+  <bookmark href="file:///home/moringa/Downloads/logo%2053146e1f-e8f5-4dba-a328-1865660da2d7_200x200.png" added="2020-07-30T07:42:23Z" modified="2020-08-01T12:51:08Z" visited="2020-07-30T07:42:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:42:23Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T12:51:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Documents/Untitled%201" added="2020-07-30T14:31:57Z" modified="2020-07-30T14:31:57Z" visited="2020-07-30T14:31:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-07-30T14:31:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/index.js" added="2020-07-31T09:57:05Z" modified="2020-07-31T09:57:05Z" visited="2020-07-31T09:57:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-07-31T09:57:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/images/wings.jpg" added="2020-08-01T12:57:43Z" modified="2020-08-01T12:57:43Z" visited="2020-08-01T12:57:43Z">
+    <title>wings.jpg</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog file:///home/moringa/Desktop/iBiz-Foods/images/IMG_9152.jpg&apos;" modified="2020-08-01T12:57:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/images/french-fries.jpg" added="2020-08-01T12:59:13Z" modified="2020-08-01T12:59:13Z" visited="2020-08-01T12:59:13Z">
+    <title>french-fries.jpg</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog file:///home/moringa/Desktop/iBiz-Foods/images/french-fries-_295x200_1527246234537.jpg&apos;" modified="2020-08-01T12:59:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/images/logo.png" added="2020-08-01T13:00:55Z" modified="2020-08-01T13:00:55Z" visited="2020-08-01T13:00:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-08-01T13:00:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/images/my%20logo.png" added="2020-08-01T13:01:16Z" modified="2020-08-01T13:01:16Z" visited="2020-08-01T13:01:17Z">
+    <title>my logo.png</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog file:///home/moringa/Desktop/iBiz-Foods/images/logo%2053146e1f-e8f5-4dba-a328-1865660da2d7_200x200.png&apos;" modified="2020-08-01T13:01:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Downloads/download.webp" added="2020-08-01T13:03:03Z" modified="2020-08-01T13:03:03Z" visited="2020-08-01T13:03:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-08-01T13:03:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Downloads/pastries.jpg" added="2020-08-01T13:41:10Z" modified="2020-08-01T13:41:10Z" visited="2020-08-01T13:41:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-08-01T13:41:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Desktop/iBiz-Foods/styles.css" added="2020-08-01T14:17:35Z" modified="2020-08-01T14:37:47Z" visited="2020-08-01T14:17:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-08-01T14:17:35Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-01T14:37:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Pictures/Screenshot%20from%202020-08-01%2017-43-21.png" added="2020-08-01T14:43:21Z" modified="2020-08-01T14:43:21Z" visited="2020-08-01T14:43:22Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
-          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-07-30T07:42:23Z" count="1"/>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-08-01T14:43:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Pictures/Screenshot%20from%202020-08-01%2017-43-26.png" added="2020-08-01T14:43:26Z" modified="2020-08-01T14:43:26Z" visited="2020-08-01T14:43:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-08-01T14:43:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringa/Pictures/Screenshot%20from%202020-08-01%2017-43-47.png" added="2020-08-01T14:43:47Z" modified="2020-08-01T14:43:47Z" visited="2020-08-01T14:43:48.061731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-08-01T14:43:47Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

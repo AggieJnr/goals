@@ -2,11 +2,12 @@
     "telemetry.machineId": "317b79f99e9c6e09967dc1ede4b95c96df493953003d7c68917b73d26d9383b2",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/moringa/Desktop/revision",
+            "file:///home/moringa",
             "file:///home/moringa/Desktop/iBiz-Foods",
-            "file:///home/moringa"
+            "file:///home/moringa/Desktop/revision"
         ],
         "files2": [
+            "file:///home/moringa/Desktop/iBiz-Foods/styles.css",
             "file:///home/moringa/Desktop/iBiz-Foods/index.html"
         ]
     },
@@ -44,7 +45,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -53,7 +55,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/moringa/Desktop/iBiz-Foods",
+                                        "fsPath": "/home/moringa",
+                                        "external": "file:///home/moringa",
+                                        "path": "/home/moringa",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/moringa"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/moringa/Desktop/iBiz-Foods",
                                         "path": "/home/moringa/Desktop/iBiz-Foods",
                                         "scheme": "file"
@@ -73,23 +86,24 @@
                                     "label": "~/Desktop/revision"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/moringa",
-                                        "path": "/home/moringa",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/home/moringa"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/moringa/Desktop/iBiz-Foods/styles.css",
+                                        "path": "/home/moringa/Desktop/iBiz-Foods/styles.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/iBiz-Foods/styles.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/moringa/Desktop/iBiz-Foods/index.html",
                                         "path": "/home/moringa/Desktop/iBiz-Foods/index.html",
                                         "scheme": "file"
                                     },
@@ -129,7 +143,8 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
@@ -201,7 +216,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -604,7 +620,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -613,7 +630,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1491,10 +1509,10 @@
             "folder": "file:///home/moringa/Desktop/iBiz-Foods",
             "backupPath": "/home/moringa/.config/Code/Backups/252b9d01277da780c6108b18c1923247",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 171,
                 "y": 57,
-                "width": 1024,
+                "width": 1033,
                 "height": 711
             }
         },
@@ -1503,10 +1521,10 @@
                 "folder": "file:///home/moringa/Desktop/iBiz-Foods",
                 "backupPath": "/home/moringa/.config/Code/Backups/252b9d01277da780c6108b18c1923247",
                 "uiState": {
-                    "mode": 0,
+                    "mode": 1,
                     "x": 171,
                     "y": 57,
-                    "width": 1024,
+                    "width": 1033,
                     "height": 711
                 }
             },
@@ -1515,7 +1533,7 @@
                 "backupPath": "/home/moringa/.config/Code/Backups/6a8aae5389eb6568fe0c730820425ff1",
                 "uiState": {
                     "mode": 1,
-                    "x": 171,
+                    "x": 201,
                     "y": 57,
                     "width": 1024,
                     "height": 711

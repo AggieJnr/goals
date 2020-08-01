@@ -1,6 +1,9 @@
-2020/07/29-17:01:41.301 c1a Reusing MANIFEST /home/moringa/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2020/07/29-17:01:41.302 c1a Recovering log #4
-2020/07/29-17:01:41.303 c1a Reusing old log /home/moringa/.config/Slack/Local Storage/leveldb/000004.log 
-2020/07/29-20:44:48.269 17ac Level-0 table #8: started
-2020/07/29-20:44:48.275 17ac Level-0 table #8: 10728 bytes OK
-2020/07/29-20:44:48.281 17ac Delete type=0 #4
+2020/07/30-08:44:47.676 149c Reusing MANIFEST /home/moringa/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2020/07/30-08:44:47.679 149c Recovering log #7
+2020/07/30-08:44:47.679 149c Reusing old log /home/moringa/.config/Slack/Local Storage/leveldb/000007.log 
+2020/07/30-13:12:48.216 38b5 Level-0 table #11: started
+2020/07/30-13:12:48.224 38b5 Level-0 table #11: 11211 bytes OK
+2020/07/30-13:12:48.229 38b5 Delete type=0 #7
+2020/07/30-17:18:48.232 38b5 Level-0 table #13: started
+2020/07/30-17:18:48.241 38b5 Level-0 table #13: 11307 bytes OK
+2020/07/30-17:18:48.249 38b5 Delete type=0 #10

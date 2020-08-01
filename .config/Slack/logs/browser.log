@@ -5013,3 +5013,912 @@
   },
   "fromEvent": true
 }
+[07/30/20, 14:15:21:689] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:15:31:692] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:17:27:090] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:17:33:841] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isMinimized": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:17:33:845] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:22:01:925] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:31:42:280] info: Store: SET_SYSTEM_IDLE idle_presence
+[07/30/20, 14:32:42:311] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:34:22:361] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:35:42:412] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:36:12:427] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:36:22:434] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:37:12:470] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:39:32:556] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:39:52:568] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:41:39:203] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isMinimized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:41:39:205] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:41:39:210] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:41:40:207] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 14:41:42:641] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:42:22:665] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:45:12:790] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:45:32:801] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:46:12:824] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:46:13:730] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isMinimized": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:46:13:731] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:46:52:846] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:48:04:874] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isMinimized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:48:04:877] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:48:04:879] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:48:05:877] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 14:48:08:265] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:48:12:900] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:48:42:911] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:49:12:930] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:49:30:056] info: Attempted to close the window, hiding due to run from tray 
+[07/30/20, 14:49:30:058] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:49:31:106] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 14:49:31:171] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 14:51:33:025] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:57:03:264] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:57:23:280] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 14:58:23:328] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 14:59:13:356] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:08:53:772] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:09:23:798] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:09:53:818] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:10:33:847] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:10:43:856] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:11:03:869] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:14:23:999] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:14:54:015] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:15:24:034] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:16:14:060] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:17:32:668] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 15:21:14:259] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:21:44:284] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:22:14:307] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:22:34:322] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:27:04:533] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:27:34:563] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:34:04:853] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:40:55:149] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:41:15:167] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:41:55:205] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:43:25:273] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:44:35:331] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:52:55:741] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:53:25:765] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:55:05:842] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:55:35:872] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:58:36:017] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 15:59:16:042] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 15:59:36:061] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:09:46:518] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:09:56:525] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:11:06:582] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:11:26:598] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:21:42:203] info: secondInstanceEpic: Otherwise signaled, foregrounding 
+[07/30/20, 16:21:42:203] info: Store: FOREGROUND_APP 
+[07/30/20, 16:21:42:205] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:21:42:281] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:21:43:224] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:21:43:289] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 16:21:44:346] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:21:47:778] info: Store: OPEN_CONTEXT_MENU 
+{
+  "id": 1,
+  "params": "[REDACTED]"
+}
+[07/30/20, 16:21:59:598] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:22:04:072] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:22:06:178] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:22:37:080] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:23:27:115] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:23:57:137] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:25:27:217] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:26:07:252] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:29:17:403] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:30:27:466] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:36:57:754] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:37:17:769] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:40:55:351] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:40:57:929] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:41:24:324] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 16:41:47:963] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 16:50:08:351] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 16:51:08:403] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 17:00:48:835] info: Store: SET_SYSTEM_IDLE idle_presence
+[07/30/20, 17:29:30:050] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 17:31:39:439] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 17:31:40:018] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 17:31:42:952] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 17:31:48:112] info: Attempted to close the window, hiding due to run from tray 
+[07/30/20, 17:31:48:114] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 17:31:49:187] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 17:31:49:251] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 18:28:25:636] info: 
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.7.0, linux 4.15.0-112-generic on x64 at 07/30/20, 18:28:25:634      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[07/30/20, 18:28:25:638] info: Configured logger via 
+{
+  "logLevel": "info",
+  "numberOfInstances": 1
+}
+[07/30/20, 18:28:25:638] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.7.0",
+  "PACKAGE_MANIFEST.commit": "7ffff30",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[07/30/20, 18:28:25:841] info: Store: persist/REHYDRATE 
+{
+  "appTeams": {
+    "selectedTeamId": null,
+    "teamsByIndex": [],
+    "teamsToSignOut": []
+  },
+  "bookmarks": [],
+  "dialog": "[REDACTED]",
+  "downloads": "[REDACTED]",
+  "enterprise": {},
+  "settings": {
+    "defaultSigninTeam": null,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "isSignedIntoSlackOrg": false,
+    "lastClogForProxyInfo": 1595945405841,
+    "reportIssueOnStartup": false,
+    "suppressPermissionDialog": false,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "chrome-devtools:",
+      "devtools:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:",
+      "slack:"
+    ],
+    "suppressMoveFromDmgDialog": false,
+    "debugFeatures": [],
+    "notificationAfterHoverTimeout": 2000,
+    "notificationFailover": 0,
+    "notificationFailoverEnabled": true,
+    "notificationMaxItems": 3,
+    "notificationMethod": null,
+    "notificationPresentationCheck": null,
+    "notificationStyle": "2018",
+    "notificationTimeout": 6000,
+    "notificationZoomLevel": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "isOpenExternalShellForced": true,
+    "isTitleBarForcedByUser": false,
+    "autoHideMenuBar": false,
+    "launchOnStartup": false,
+    "keyboardLayout": "us,us",
+    "locale": "en-US",
+    "PrefSSBFileDownloadPath": "/home/moringa/Downloads",
+    "runFromTray": true,
+    "startNetLogAtLaunch": false,
+    "useHwAcceleration": true,
+    "zoomLevel": 0,
+    "userTheme": "light",
+    "systemThemeSyncEnabled": false,
+    "releaseChannelOverride": null,
+    "hideOnStartup": true,
+    "mainWindowSettings": {
+      "fullScreen": false,
+      "maximized": false,
+      "bounds": {
+        "x": 219,
+        "y": 27,
+        "width": 988,
+        "height": 711
+      }
+    },
+    "forceHiddenInsetTitleBar": false,
+    "trafficLightPosition": {
+      "x": 14,
+      "y": 22
+    },
+    "isIAEnabled": true
+  },
+  "teams": "[REDACTED]",
+  "webapp": {
+    "teams": {
+      "T077KKCG6": {
+        "theme": {
+          "titlebarBackground": "#350d36",
+          "titlebarTextColor": "#FFFFFF"
+        },
+        "notificationPrefs": {
+          "notificationSound": "knock_brush.mp3",
+          "noTextInNotifications": false,
+          "muteSounds": false
+        },
+        "featureFlags": {
+          "feature_desktop_reload_on_generic_error": true
+        },
+        "unreads": {
+          "unreads": 0,
+          "unreadHighlights": 0,
+          "showBullet": false
+        },
+        "locale": "en-US"
+      }
+    }
+  },
+  "workspaces": "[REDACTED]",
+  "workspacesMeta": {
+    "selectedWorkspaceId": "T077KKCG6"
+  }
+}
+[07/30/20, 18:28:25:843] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 0,
+  "interval": 20
+}
+[07/30/20, 18:28:25:845] info: UpdaterEpics: Updates disabled because 
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[07/30/20, 18:28:25:845] info: Store: UPDATE_SETTINGS 
+{
+  "locale": "en-US"
+}
+[07/30/20, 18:28:25:846] info: Store: INITIALIZE 
+{
+  "resourcePath": "/usr/lib/slack/resources/app.asar"
+}
+[07/30/20, 18:28:25:848] info: getInstanceUuid:: Read existing uuid from persisted location 
+{
+  "uuid": "307afce4-a016-5212-9114-c7f77feb6b9e"
+}
+[07/30/20, 18:28:25:936] info: Starting crashReporter with options 
+{
+  "productName": "Slack",
+  "companyName": "Slack Technologies",
+  "uploadToServer": true,
+  "submitURL": "https://slack.com/apps/breakpad?instanceUid=307afce4-a016-5212-9114-c7f77feb6b9e&version=4.7.0&channel=prod",
+  "extra": {
+    "channel": "prod",
+    "version": "4.7.0",
+    "instanceUid": "307afce4-a016-5212-9114-c7f77feb6b9e",
+    "sessionId": "MzA3YWZjZTQtYTAxNi01MjEyLTkxMTQtYzdmNzdmZWI2YjllXzE1OTYxMjI5MDU4NDk="
+  }
+}
+[07/30/20, 18:28:25:947] warn: Failed to install protocol handler for slack:// links 
+[07/30/20, 18:28:25:961] info: getLinuxDistro: osInfo 
+{
+  "stdoutValue": "Ubuntu\nUbuntu 18.04 LTS\n18.04\nbionic\n",
+  "osInfo": [
+    "Ubuntu 18.04 LTS",
+    "18.04",
+    "bionic",
+    ""
+  ]
+}
+[07/30/20, 18:28:25:961] info: Store: READY 
+{
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "appVersion": "4.7.0",
+  "is64Bit": true,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "platform": "linux",
+  "platformVersion": {
+    "major": 4,
+    "minor": 15,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "uuid": "307afce4-a016-5212-9114-c7f77feb6b9e",
+  "sessionId": "MzA3YWZjZTQtYTAxNi01MjEyLTkxMTQtYzdmNzdmZWI2YjllXzE1OTYxMjI5MDU4NDk=",
+  "distribution": "DDL",
+  "linux": {
+    "os": "Ubuntu 18.04 LTS",
+    "name": "18.04",
+    "release": "bionic",
+    "codename": "",
+    "desktopEnvironment": "Unity"
+  }
+}
+[07/30/20, 18:28:25:963] info: Store: SET_ACCESSIBILITY_SUPPORT_ENABLED 
+[07/30/20, 18:28:25:964] info: initializeApplicationEpic: Welcome to Slack 4.7.0 x64 
+[07/30/20, 18:28:25:964] info: Store: CREATE_WINDOW 
+{
+  "type": "main"
+}
+[07/30/20, 18:28:25:967] info: Store: UPDATE_SETTINGS 
+{
+  "isSignedIntoSlackOrg": false
+}
+[07/30/20, 18:28:25:967] info: AutoLoginEpic: Checking for autologin. 
+[07/30/20, 18:28:25:971] info: Store: UPDATE_SETTINGS 
+{
+  "useHwAcceleration": true
+}
+[07/30/20, 18:28:25:992] info: System configuration information 
+{
+  "info": {
+    "total_memory_in_gb": 8,
+    "gpuFeatures": {
+      "2d_canvas": "enabled",
+      "flash_3d": "enabled",
+      "flash_stage3d": "enabled",
+      "flash_stage3d_baseline": "enabled",
+      "gpu_compositing": "enabled",
+      "multiple_raster_threads": "enabled_on",
+      "oop_rasterization": "disabled_off",
+      "opengl": "enabled_on",
+      "protected_video_decode": "unavailable_off",
+      "rasterization": "disabled_software",
+      "skia_renderer": "enabled_on",
+      "video_decode": "unavailable_off",
+      "vulkan": "disabled_off",
+      "webgl": "enabled",
+      "webgl2": "enabled"
+    },
+    "cpu_model": "Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz",
+    "cpu_logical_core": 4,
+    "cpu_clock_speed": 1944,
+    "gpuDevice": [
+      {
+        "active": true,
+        "cudaComputeCapabilityMajor": 0,
+        "deviceId": 5654,
+        "vendorId": 32902
+      }
+    ],
+    "machine_model_name": "unknown",
+    "machine_model_version": "unknown"
+  }
+}
+[07/30/20, 18:28:26:002] info: Store: TOKEN_FILE_PROCESSED 
+[07/30/20, 18:28:26:003] info: AutoLoginEpic: Processing token file for autologin. 
+[07/30/20, 18:28:26:003] info: AutoLoginEpic: Completed autologin processing — successfully logged in 0 workspaces. 
+[07/30/20, 18:28:26:004] info: Store: AUTOLOGIN_TEAMS_COMPLETE 
+[07/30/20, 18:28:26:004] info: AutoLoginEpic: Setting default sign-in team to null 
+[07/30/20, 18:28:26:005] info: Store: UPDATE_SETTINGS 
+{
+  "defaultSigninTeam": null
+}
+[07/30/20, 18:28:26:030] info: MainWindowEpics: Setting main window ID 
+{
+  "id": 1
+}
+[07/30/20, 18:28:26:032] info: Store: WINDOW_CREATED 
+{
+  "frame": {
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  },
+  "type": "main",
+  "id": 1
+}
+[07/30/20, 18:28:26:033] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 1,
+  "interval": 190
+}
+[07/30/20, 18:28:26:048] info: Watching for keyboard layout changes 
+[07/30/20, 18:28:26:061] info: registerLifeCycleEvents: Registering webContents:1 
+[07/30/20, 18:28:26:062] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "unloaded"
+}
+[07/30/20, 18:28:26:290] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:26:313] info: registerLifeCycleEvents: webContents:1 from 'unloaded' to 'loaded' took 249 ms 
+[07/30/20, 18:28:26:314] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded"
+}
+[07/30/20, 18:28:26:315] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 2,
+  "interval": 282
+}
+[07/30/20, 18:28:26:317] info: initializeMainWindowEpic: Showing main window 
+{
+  "maximized": false,
+  "shouldHide": false,
+  "fullScreen": false
+}
+[07/30/20, 18:28:26:322] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:26:323] info: Store: MAIN_WINDOW_SHOWN 
+[07/30/20, 18:28:26:324] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 27,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 18:28:26:327] info: Store: CLEAR_NOTIFICATIONS 
+[07/30/20, 18:28:26:328] info: UpdaterEpics: Updates disabled because 
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[07/30/20, 18:28:26:378] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:26:390] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:27:342] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:27:408] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 219,
+      "y": 57,
+      "width": 988,
+      "height": 711
+    }
+  }
+}
+[07/30/20, 18:28:27:520] info: Store: UPDATE_SETTINGS 
+{
+  "userTheme": "light"
+}
+[07/30/20, 18:28:27:521] info: Store: UPDATE_SETTINGS 
+{
+  "systemThemeSyncEnabled": false
+}
+[07/30/20, 18:28:28:397] info: Store: SYNC (Empty)
+[07/30/20, 18:28:28:430] info: Store: SELECTION_CHANGED T077KKCG6
+[07/30/20, 18:28:28:445] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [theme,notificationPrefs,featureFlags,bootConfig,unreads,locale,version]
+[07/30/20, 18:28:28:472] info: Store: SYNC Synced 1 workspaces with IDs [T077KKCG6]
+[07/30/20, 18:28:28:484] info: Store: SELECTION_CHANGED T077KKCG6
+[07/30/20, 18:28:28:485] info: registerLifeCycleEvents: webContents:1 from 'loaded' to 'webapp-loaded' took 2172 ms 
+[07/30/20, 18:28:28:485] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "webapp-loaded"
+}
+[07/30/20, 18:28:28:486] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 3,
+  "interval": 2171
+}
+[07/30/20, 18:28:28:664] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:28:837] info: Store: UPDATE_SETTINGS 
+{
+  "forceHiddenInsetTitleBar": false
+}
+[07/30/20, 18:28:28:843] info: Store: UPDATE_SETTINGS 
+{
+  "trafficLightPosition": {
+    "x": 14,
+    "y": 22
+  }
+}
+[07/30/20, 18:28:28:844] info: Store: UPDATE_SETTINGS 
+{
+  "isIAEnabled": true
+}
+[07/30/20, 18:28:29:032] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:29:563] info: Store: SET_NETWORK_STATUS online
+[07/30/20, 18:28:29:628] info: registerLifeCycleEvents: webContents:1 is type 'app' 
+[07/30/20, 18:28:29:629] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+}
+[07/30/20, 18:28:29:664] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true,
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:30:947] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [version]
+[07/30/20, 18:28:31:199] info: Store: REDUX_UPDATE_FROM_WEBAPP (T077KKCG6) Changed keys [unreads]
+[07/30/20, 18:28:31:244] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:41:578] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:28:46:071] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[07/30/20, 18:29:26:347] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 18:30:06:362] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 18:30:56:382] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 18:40:36:567] info: Store: SET_SYSTEM_IDLE idle_presence
+[07/30/20, 18:49:26:750] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 18:49:56:777] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 18:51:46:845] info: Store: SET_SYSTEM_IDLE active
+[07/30/20, 18:52:36:879] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[07/30/20, 18:54:36:961] info: Store: SET_SYSTEM_IDLE active
